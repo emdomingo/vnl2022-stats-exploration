@@ -1,0 +1,16 @@
+INFO:root:Started scraping from: https://en.volleyballworld.com/volleyball/competitions/vnl-2022/teams/Men/
+INFO:root:Started scraping team Argentina
+INFO:root:Getting data: Sanchez Matias
+INFO:root:Getting data: Scarpa Tobias
+WARNING:root:Player statistics not available
+INFO:root:Getting data: Martinez Franchi Jan
+WARNING:root:Player statistics not available
+INFO:root:Getting data: Gallego Joaquin
+INFO:root:Getting data: Urchevich Pablo
+WARNING:root:Player statistics not available
+INFO:root:Getting data: Martina Federico
+WARNING:root:Player statistics not available
+INFO:root:Getting data: Conte Facundo
+WARNING:root:Player statistics not available
+INFO:root:Getting data: Loser Agustin
+INFO:root:Getting data: Danani Santiago

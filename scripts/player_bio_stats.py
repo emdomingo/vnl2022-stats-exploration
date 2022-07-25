@@ -82,6 +82,12 @@ def get_player_bio_stats(url):
         for date in dates:
             match_dates.append(date.text)
 
+        # SCORING DATA
+        points_scored =[]
+        points = soup.select('div[data-tab="scoring"] td.points')
+        for point in points:
+            points_scored.append(point.text)
+        
         # ATTACK DATA    
         attack_kills, attack_faults, attack_shots = [], [], []
         attacks = soup.select('div[data-tab="attack"] tbody tr')
@@ -137,7 +143,7 @@ def get_player_bio_stats(url):
             'position': [position] * len(opponents),
             'opponent' : opponents,
             'match_date' : match_dates,
-            'points_scored' : attack_kills + block_kills + serve_aces,
+            'points_scored' : points_scored,
             'attack_kills' : attack_kills, 
             'attack_faults' : attack_faults,
             'attack_shots' : attack_shots,
@@ -170,7 +176,7 @@ def get_player_bio_stats(url):
             return None, None
 
 def main():
-    logging.basicConfig(filename='player_bio_stats.log', encoding='utf-8', level=logging.INFO)
+    logging.basicConfig(filename='logs/player_bio_stats.log', encoding='utf-8', level=logging.INFO)
     
     divisions = ['Men', 'Women']
     
