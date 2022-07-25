@@ -137,6 +137,7 @@ def get_player_bio_stats(url):
             'position': [position] * len(opponents),
             'opponent' : opponents,
             'match_date' : match_dates,
+            'points_scored' : attack_kills + block_kills + serve_aces,
             'attack_kills' : attack_kills, 
             'attack_faults' : attack_faults,
             'attack_shots' : attack_shots,
@@ -169,38 +170,43 @@ def get_player_bio_stats(url):
             return None, None
 
 def main():
-    logging.basicConfig(filename='log.log', encoding='utf-8', level=logging.INFO)
+    logging.basicConfig(filename='player_bio_stats.log', encoding='utf-8', level=logging.INFO)
     
-    url = 'https://en.volleyballworld.com/volleyball/competitions/vnl-2022/teams/men/'
-    logging.info(f'Started scraping from: {url}')
+    divisions = ['Men', 'Women']
     
-    team_links = get_team_links(url)
+    for div in divisions:
     
-    player_bio = []
-    stats_df = pd.DataFrame()
-    
-    for team_link, country in team_links:
-        logging.info(f'Started scraping team {country}')
-        print(f'Started scraping team {country}')
-        player_links = get_player_links(team_link)
+        url = f'https://en.volleyballworld.com/volleyball/competitions/vnl-2022/teams/{div}/'
+        logging.info(f'Started scraping from: {url}')
+        print(f'Started scraping from: {url}')
         
-        for player_link, player_name in player_links:
-            logging.info(f'Getting data: {player_name}')
-            print(f'Getting data: {player_name}')
-            player_bio_list, player_stats_df = get_player_bio_stats(player_link)
-            player_bio.append(player_bio_list)
-            stats_df = pd.concat([stats_df, player_stats_df], ignore_index=True)
-            time.sleep(1)
+        team_links = get_team_links(url)
+        
+        player_bio = []
+        stats_df = pd.DataFrame()
+        
+        for team_link, country in team_links:
+            logging.info(f'Started scraping team {country}')
+            print(f'Started scraping team {country}')
+            player_links = get_player_links(team_link)
+            
+            for player_link, player_name in player_links:
+                logging.info(f'Getting data: {player_name}')
+                print(f'Getting data: {player_name}')
+                player_bio_list, player_stats_df = get_player_bio_stats(player_link)
+                player_bio.append(player_bio_list)
+                stats_df = pd.concat([stats_df, player_stats_df], ignore_index=True)
+                time.sleep(1)
 
-        time.sleep(3)
+            time.sleep(3)
+            
+        player_bio = list(filter(None, player_bio))
+        #RESEARCH: dataframe concat with None, personal code tests looks like concat ignores the None   
         
-    player_bio = list(filter(None, player_bio))
-    #RESEARCH: dataframe concat with None, personal code tests looks like concat ignores the None   
-    
-    bio_df = pd.DataFrame(player_bio)
-    
-    bio_df.to_csv('player_bios_m.csv', index=False)
-    stats_df.to_csv('player_stats_m.csv', index=False)
+        bio_df = pd.DataFrame(player_bio)
+        
+        bio_df.to_csv(f'../data/raw/{div[0].lower()}_player_bios.csv', index=False)
+        stats_df.to_csv(f'../data/raw/{div[0].lower()}_player_stats.csv', index=False)
     
 if __name__ == '__main__':
    main()
