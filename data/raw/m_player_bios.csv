@@ -1,0 +1,292 @@
+player_number,first_name,last_name,position,nationality,age,birthdate,height_cm,weight_kg
+1,Matias,Sanchez,Setter,Argentina,25,20/09/1996,173,67
+4,Joaquin,Gallego,Middle blocker,Argentina,25,21/11/1996,204,102
+8,Agustin,Loser,Middle blocker,Argentina,24,12/10/1997,193,77
+9,Santiago,Danani,Libero,Argentina,26,12/12/1995,176,77
+10,Nicolás,Lazo,Outside Hitter,Argentina,27,16/04/1995,192,85
+11,Manuel,Armoa,Outside Hitter,Argentina,19,01/12/2002,195,88
+12,Bruno,Lima,Opposite spiker,Argentina,26,04/02/1996,198,87
+13,Ezequiel,Palacios,Outside Hitter,Argentina,29,02/10/1992,198,95
+15,Luciano,De Cecco,Setter,Argentina,34,02/06/1988,191,98
+16,Luciano,Palonsky,Outside Hitter,Argentina,23,08/07/1999,198,72
+17,Luciano,Vicentin,Outside Hitter,Argentina,22,04/04/2000,197,84
+18,Martin,Ramos,Middle blocker,Argentina,30,26/08/1991,197,94
+19,Franco,Massimino,Libero,Argentina,34,23/05/1988,177,66
+22,Nicolas,Zerba,Middle blocker,Argentina,23,13/06/1999,203,94
+77,Matias,Giraudo,Setter,Argentina,24,13/03/1998,196,85
+1,Beau,Graham,Middle blocker,Australia,28,17/04/1994,202,86
+2,Arshdeep,Dosanjh,Setter,Australia,25,30/07/1996,205,95
+3,Lorenzo,Pope,Outside Hitter,Australia,21,12/06/2001,205,80
+4,Jackson,Holland,Libero,Australia,23,30/11/1998,186,68
+5,Malachi,Murch,Outside Hitter,Australia,27,04/01/1995,197,75
+7,James,Weir,Middle blocker,Australia,27,20/07/1995,204,95
+8,Trent,O'Dea,Middle blocker,Australia,28,11/05/1994,201,98
+9,Max,Staples,Outside Hitter,Australia,27,27/07/1994,194,83
+11,Luke,Perry,Libero,Australia,26,20/11/1995,180,75
+13,Thomas,Heptinstall,Opposite spiker,Australia,23,01/03/1999,206,100
+14,Hamish,Hazelden,Opposite spiker,Australia,26,14/07/1996,203,92
+15,Conal Tain,McAinsh,Middle blocker,Australia,25,12/05/1997,201,95
+17,Korben,Phillips,Middle blocker,Australia,20,07/03/2002,197,105
+21,Nicholas,Butler,Setter,Australia,25,27/06/1997,198,95
+23,Sam,Flowerday,Outside Hitter,Australia,20,30/05/2002,191,91
+27,Max,Senica,Outside Hitter,Australia,22,19/08/1999,191,85
+29,Ethan,Garrett,Outside Hitter,Australia,21,01/02/2001,196,86
+31,Matthew,Aubrey,Opposite spiker,Australia,24,18/08/1997,209,103
+1,Bruno Mossa,Rezende,Setter,Brazil,36,02/07/1986,190,76
+2,Leonardo Henrique,Andrade,Middle blocker,Brazil,20,14/05/2002,203,94
+4,Franco Willian,Cargnin Paese,Opposite spiker,Brazil,32,01/03/1990,202,93
+6,Adriano,Fernandes P.X.Cavalcante,Outside Hitter,Brazil,20,06/02/2002,201,84
+9,Yoandy,Leal Hidalgo,Outside Hitter,Brazil,33,31/08/1988,202,107
+11,Rodrigo,Leao,Outside Hitter,Brazil,26,05/06/1996,197,85
+12,Isac,Santos,Middle blocker,Brazil,31,13/12/1990,208,99
+13,Gabriel,Kavalkievicz,Outside Hitter,Brazil,25,25/12/1996,191,80
+14,Fernando,Gil Kreling,Setter,Brazil,26,13/01/1996,185,85
+15,Maique Reis,Nascimento,Libero,Brazil,25,16/07/1997,187,78
+16,Lucas,Saatkamp,Middle blocker,Brazil,36,06/03/1986,209,101
+17,Thales,Hoss,Libero,Brazil,33,26/04/1989,190,74
+18,Ricardo Lucarelli,Souza,Outside Hitter,Brazil,30,14/02/1992,196,87
+19,Leandro,Santos,Middle blocker,Brazil,29,13/01/1993,197,80
+20,Henrique Dantas Nóbrega,Honorato,Outside Hitter,Brazil,25,18/03/1997,190,85
+21,Alan,Souza,Opposite spiker,Brazil,28,21/03/1994,202,98
+23,Flavio,Resende Gualberto,Middle blocker,Brazil,29,22/04/1993,199,84
+25,Victor Alexsander,Almeida Cardoso,Outside Hitter,Brazil,23,22/03/1999,199,86
+28,Darlan,Ferreira Souza,Opposite spiker,Brazil,20,24/06/2002,192,103
+1,Denis,Karyagin,Opposite spiker,Bulgaria,19,28/09/2002,206,99
+2,Stefan,Chavdarov,Middle blocker,Bulgaria,26,26/07/1995,202,98
+3,Nikolay,Kolev,Middle blocker,Bulgaria,24,16/12/1997,204,86
+4,Martin,Atanasov,Outside Hitter,Bulgaria,25,27/09/1996,198,80
+5,Svetoslav,Gotsev,Middle blocker,Bulgaria,31,31/08/1990,205,97
+7,Dobromir,Dimitrov,Setter,Bulgaria,31,07/07/1991,198,84
+9,Georgi,Seganov,Setter,Bulgaria,29,10/06/1993,198,83
+11,Aleks,Grozdanov,Middle blocker,Bulgaria,24,28/03/1998,208,90
+14,Asparuh,Asparuhov,Outside Hitter,Bulgaria,21,28/07/2000,201,88
+15,Radoslav,Parapunov,Opposite spiker,Bulgaria,25,19/06/1997,205,87
+16,Vladislav,Ivanov,Libero,Bulgaria,35,14/03/1987,188,80
+17,Samuil,Valchinov,Outside Hitter,Bulgaria,20,21/12/2001,202,91
+18,Svetoslav,Ivanov,Outside Hitter,Bulgaria,22,10/07/2000,197,88
+21,Iliya,Petkov,Middle blocker,Bulgaria,25,10/10/1996,201,88
+23,Aleksandar,Nikolov,Outside Hitter,Bulgaria,18,30/11/2003,205,98
+24,Martin,Ivanov,Libero,Bulgaria,30,04/02/1992,190,78
+3,Jesse,Elser,Outside Hitter,Canada,23,27/05/1999,204,94
+4,Nicholas,Hoag,Outside Hitter,Canada,29,19/08/1992,200,91
+5,Eric,Loeppky,Outside Hitter,Canada,23,01/08/1998,197,89
+7,Stephen Timothy,Maar,Outside Hitter,Canada,27,06/12/1994,201,103
+8,Brett James,Walsh,Setter,Canada,28,19/02/1994,196,84
+9,Jay,Blankenau,Setter,Canada,32,27/09/1989,194,94
+10,Ryan Joseph,Sclater,Opposite spiker,Canada,28,10/02/1994,200,92
+11,Pearson,Eshenko,Middle blocker,Canada,24,16/10/1997,204,97
+12,Lucas,Van Berkel,Middle blocker,Canada,30,29/11/1991,210,108
+15,Marc Major,Wilson,Middle blocker,Canada,30,12/10/1991,203,96
+17,Ryley Brendan,Barnes,Outside Hitter,Canada,28,11/10/1993,200,92
+18,Justin,Lui,Libero,Canada,22,08/05/2000,178,68
+19,Brodie,Hofer,Outside Hitter,Canada,22,27/04/2000,200,104
+20,Derek,Epp,Setter,Canada,24,15/06/1998,201,97
+21,Jackson,Howe,Middle blocker,Canada,24,16/06/1998,198,91
+24,Mathias,Elser,Setter,Canada,21,03/06/2001,198,76
+25,Samuel,Cooper,Outside Hitter,Canada,21,17/06/2001,200,93
+4,Yiming,Yang,Libero,China,22,29/09/1999,186,80
+5,Binglong,Zhang,Outside Hitter,China,27,11/09/1994,197,99
+6,Yuantai,Yu,Outside Hitter,China,24,03/12/1997,183,75
+7,Yaochen,Yu,Setter,China,26,19/08/1995,195,89
+8,Tianyuan,Yang,Libero,China,28,28/06/1994,180,80
+9,Yongzhen,Li,Middle blocker,China,23,07/08/1998,200,85
+10,Meng,Liu,Setter,China,27,11/02/1995,195,80
+11,Zhengyang,Jiang,Middle blocker,China,23,25/08/1998,202,92
+15,Shikun,Peng,Middle blocker,China,21,26/08/2000,208,90
+16,Hebin,Wang,Setter,China,23,27/06/1999,188,76
+17,Jingyi,Wang,Opposite spiker,China,24,07/02/1998,202,87
+18,Dangyi,Yuan,Outside Hitter,China,25,30/11/1996,200,91
+19,Guanhua,Zhang,Opposite spiker,China,25,10/07/1997,202,85
+21,Ruantong,Miao,Middle blocker,China,27,21/05/1995,205,88
+22,Jingyin,Zhang,Outside Hitter,China,22,20/12/1999,207,88
+1,Barthélémy,Chinenyeze,Middle blocker,France,24,28/02/1998,204,89
+2,Jenia,Grebennikov,Libero,France,31,13/08/1990,188,85
+3,Raphaël,Corre,Setter,France,32,21/11/1989,196,85
+4,Jean,Patry,Opposite spiker,France,25,27/12/1996,207,94
+5,Jérémie,Mouiel,Libero,France,27,04/05/1995,176,52
+6,Benjamin,Toniutti,Setter,France,32,30/10/1989,183,72
+7,Kevin,Tillie,Outside Hitter,France,31,02/11/1990,200,85
+9,Earvin,Ngapeth,Outside Hitter,France,31,12/02/1991,194,96
+11,Antoine,Brizard,Setter,France,28,22/05/1994,196,96
+12,Stephen,Boyer,Opposite spiker,France,26,10/04/1996,196,77
+14,Nicolas,Le Goff,Middle blocker,France,30,15/02/1992,206,114
+15,Médéric,Henry,Middle blocker,France,27,20/06/1995,212,106
+17,Trevor,Clevenot,Outside Hitter,France,28,28/06/1994,199,89
+19,Yacine,Louati,Outside Hitter,France,30,04/03/1992,198,92
+20,Benjamin,Diez,Libero,France,24,04/04/1998,183,80
+22,Pierre,Derouillon,Outside Hitter,France,23,06/06/1999,194,79
+24,Mousse,Gueye,Middle blocker,France,25,11/11/1996,198,84
+25,Quentin,Jouffroy,Middle blocker,France,29,05/07/1993,202,100
+1,Christian,Fromm,Outside Hitter,Germany,31,15/08/1990,204,99
+2,Johannes,Tille,Setter,Germany,25,07/05/1997,186,73
+4,Leonard,Graven,Libero,Germany,18,22/04/2004,180,68
+5,Moritz,Reichert,Outside Hitter,Germany,27,15/03/1995,194,85
+10,Julian,Zenger,Libero,Germany,24,26/08/1997,190,80
+17,Jan,Zimmermann,Setter,Germany,29,12/02/1993,191,82
+18,Florian,Krage,Middle blocker,Germany,25,11/01/1997,203,90
+19,Erik,Röhrs,Outside Hitter,Germany,21,24/04/2001,194,82
+20,Linus,Weber,Opposite spiker,Germany,22,01/11/1999,199,85
+21,Tobias,Krick,Middle blocker,Germany,23,22/10/1998,210,85
+22,Tobias,Brand,Outside Hitter,Germany,24,09/07/1998,193,86
+23,Yannick,Goralik,Middle blocker,Germany,24,23/10/1997,206,94
+25,Lukas,Maase,Middle blocker,Germany,23,28/08/1998,208,95
+29,Leon,Dervisaj,Setter,Germany,25,07/09/1996,194,85
+32,Iven,Ferch,Middle blocker,Germany,24,18/09/1997,208,90
+38,Tim,Peter,Outside Hitter,Germany,24,08/09/1997,197,98
+40,Max,Schulz,Outside Hitter,Germany,19,25/08/2002,194,80
+1,Mahdi,Jelveh Ghaziani,Middle blocker,Iran,21,21/05/2001,208,85
+2,Milad,Ebadipour Ghara H.,Outside Hitter,Iran,28,17/10/1993,196,78
+3,Reza,Abedini,Middle blocker,Iran,31,19/05/1991,203,93
+5,Amir Hossein,Toukhteh,Middle blocker,Iran,21,09/04/2001,203,79
+7,Esmaeil,Mosaferdashliboroun,Outside Hitter,Iran,24,21/11/1997,192,71
+8,Mohammadreza,Hazratpourtalatappeh,Libero,Iran,23,31/03/1999,187,87
+9,Mohammadreza,Moazzen,Libero,Iran,30,20/09/1991,175,75
+11,Saber,Kazemi,Opposite spiker,Iran,23,24/12/1998,205,87
+13,Ali,Ramezani,Setter,Iran,24,05/05/1998,200,103
+16,Abolfazl,Gholipour Gholchi,Libero,Iran,29,21/01/1993,178,63
+17,Amin,Esmaeilnezhad,Opposite spiker,Iran,25,17/12/1996,203,90
+18,Mohammad Taher,Vadi,Setter,Iran,32,10/10/1989,194,72
+19,Ehsan,Daneshdoust,Outside Hitter,Iran,22,01/01/2000,192,76
+21,Amir Reza,Sarlak,Middle blocker,Iran,21,10/05/2001,201,86
+22,Amirhossein,Esfandiar,Outside Hitter,Iran,23,24/01/1999,209,110
+23,Bardia,Saadat,Opposite spiker,Iran,19,12/08/2002,205,87
+25,Fazel,Pazhooman,Setter,Iran,28,21/08/1993,204,96
+26,Mehrab,Malakisorkhi,Middle blocker,Iran,24,08/04/1998,206,93
+49,Morteza,Sharifi,Outside Hitter,Iran,23,27/05/1999,193,83
+1,Giulio,Pinali,Opposite spiker,Italy,25,02/04/1997,199,91
+2,Fabio,Ricci,Middle blocker,Italy,28,11/07/1994,204,96
+3,Francesco,Recine,Outside Hitter,Italy,23,07/02/1999,186,75
+4,Oreste,Cavuto,Outside Hitter,Italy,25,05/12/1996,196,87
+5,Alessandro,Michieletto,Outside Hitter,Italy,20,05/12/2001,205,88
+6,Simone,Giannelli,Setter,Italy,25,09/08/1996,198,92
+7,Fabio,Balaso,Libero,Italy,26,20/10/1995,178,73
+8,Riccardo,Sbertoli,Setter,Italy,24,23/05/1998,188,85
+9,Ivan,Zaytsev,Outside Hitter,Italy,33,02/10/1988,204,100
+10,Marco,Falaschi,Setter,Italy,34,18/09/1987,188,85
+11,Davide,Gardini,Outside Hitter,Italy,23,11/02/1999,205,94
+12,Mattia,Bottolo,Outside Hitter,Italy,22,03/01/2000,196,85
+13,Lorenzo,Cortesia,Middle blocker,Italy,22,26/07/1999,198,75
+14,Gianluca,Galassi,Middle blocker,Italy,25,24/07/1997,201,94
+15,Daniele,Lavia,Outside Hitter,Italy,22,04/11/1999,200,89
+16,Yuri,Romanò,Opposite spiker,Italy,24,26/07/1997,201,89
+17,Simone,Anzani,Middle blocker,Italy,30,24/02/1992,204,100
+18,Fabrizio,Gironi,Outside Hitter,Italy,22,18/03/2000,200,81
+19,Roberto,Russo,Middle blocker,Italy,25,23/02/1997,207,91
+21,Alessandro,Piccinelli,Libero,Italy,25,30/01/1997,189,98
+24,Leonardo,Scanferla,Libero,Italy,23,04/12/1998,184,76
+25,Marco,Vitelli,Middle blocker,Italy,26,04/04/1996,203,94
+30,Leandro Ausibio,Mosca,Middle blocker,Italy,21,05/09/2000,208,90
+1,Yuji,Nishida,Opposite spiker,Japan,22,30/01/2000,187,89
+2,Taishi,Onodera,Middle blocker,Japan,26,27/02/1996,200,94
+5,Tatsunori,Otsuka,Outside Hitter,Japan,21,05/11/2000,194,80
+6,Akihiro,Yamauchi,Middle blocker,Japan,28,30/11/1993,204,85
+7,Kenta,Takanashi,Outside Hitter,Japan,25,25/03/1997,190,83
+8,Masahiro,Sekita,Setter,Japan,28,20/11/1993,175,71
+9,Masaki,Oya,Setter,Japan,27,23/04/1995,178,77
+10,Kentaro,Takahashi,Middle blocker,Japan,27,08/02/1995,202,90
+11,Shoma,Tomita,Outside Hitter,Japan,25,20/06/1997,190,80
+12,Ran,Takahashi,Outside Hitter,Japan,20,02/09/2001,188,72
+13,Tomohiro,Ogawa,Libero,Japan,26,04/07/1996,176,67
+14,Yuki,Ishikawa,Outside Hitter,Japan,26,11/12/1995,191,84
+16,Kento,Miyaura,Opposite spiker,Japan,23,22/02/1999,190,87
+20,Tomohiro,Yamamoto,Libero,Japan,27,05/11/1994,171,69
+21,Motoki,Eiro,Setter,Japan,26,08/06/1996,192,80
+26,Go,Murayama,Middle blocker,Japan,23,30/07/1998,192,82
+2,Wessel,Keemink,Setter,Netherlands,29,29/05/1993,197,81
+3,Maarten,Van Garderen,Outside Hitter,Netherlands,32,24/01/1990,200,89
+4,Thijs,Ter Horst,Outside Hitter,Netherlands,30,18/09/1991,204,97
+5,Luuc,van der Ent,Middle blocker,Netherlands,23,27/07/1998,208,105
+7,Gijs,Jorna,Outside Hitter,Netherlands,33,30/05/1989,196,85
+8,Fabian,Plak,Middle blocker,Netherlands,25,23/07/1997,198,92
+9,Steven,Ottevanger,Libero,Netherlands,27,07/01/1995,183,80
+10,Stijn,van Tilburg,Outside Hitter,Netherlands,26,07/04/1996,203,100
+12,Bennie Junior,Tuinstra,Outside Hitter,Netherlands,21,13/09/2000,200,90
+13,Mats,Bleeker,Libero,Netherlands,24,07/05/1998,180,80
+14,Nimir,Abdel-Aziz,Opposite spiker,Netherlands,30,05/02/1992,201,91
+15,Gijs,van Solkema,Setter,Netherlands,24,21/05/1998,193,91
+17,Michael,Parkinson,Middle blocker,Netherlands,30,23/11/1991,203,102
+18,Robbert,Andringa,Libero,Netherlands,32,28/04/1990,192,85
+19,Freek,de Weijer,Setter,Netherlands,26,30/10/1995,191,93
+22,Twan,Wiltenburg,Middle blocker,Netherlands,25,20/01/1997,205,86
+1,Bartlomiej,Lipinski,Outside Hitter,Poland,25,16/11/1996,201,95
+2,Maciej,Muzaj,Opposite spiker,Poland,28,21/05/1994,208,86
+3,Jakub,Popiwczak,Libero,Poland,26,17/04/1996,180,77
+4,Lukasz,Kozub,Setter,Poland,24,03/11/1997,186,88
+5,Lukasz,Kaczmarek,Opposite spiker,Poland,28,29/06/1994,204,99
+6,Bartosz,Kurek,Opposite spiker,Poland,33,29/08/1988,205,87
+7,Karol,Klos,Middle blocker,Poland,32,08/08/1989,201,87
+10,Bartosz,Bednorz,Outside Hitter,Poland,28,25/07/1994,201,84
+12,Grzegorz,Lomacz,Setter,Poland,34,01/10/1987,187,80
+13,Rafal,Szymura,Outside Hitter,Poland,26,29/08/1995,196,93
+14,Aleksander,Sliwka,Outside Hitter,Poland,27,24/05/1995,196,88
+15,Jakub,Kochanowski,Middle blocker,Poland,25,17/07/1997,199,89
+16,Kamil,Semeniuk,Outside Hitter,Poland,26,16/07/1996,195,85
+17,Pawel,Zatorski,Libero,Poland,32,21/06/1990,184,73
+18,Bartosz,Kwolek,Outside Hitter,Poland,25,17/07/1997,192,91
+19,Marcin,Janusz,Setter,Poland,27,31/07/1994,195,85
+20,Mateusz,Bieniek,Middle blocker,Poland,28,05/04/1994,210,106
+21,Tomasz,Fornal,Outside Hitter,Poland,24,31/08/1997,198,92
+22,Karol,Urbanowicz,Middle blocker,Poland,21,24/02/2001,201,98
+23,Karol,Butryn,Opposite spiker,Poland,29,18/06/1993,194,99
+24,Kamil,Szymura,Libero,Poland,23,24/01/1999,184,78
+72,Mateusz,Poreba,Middle blocker,Poland,22,24/08/1999,203,104
+96,Jan,Firlej,Setter,Poland,25,26/09/1996,187,82
+1,Uros,Nikolic,Outside Hitter,Serbia,23,27/07/1998,210,98
+4,Nemanja,Petric,Outside Hitter,Serbia,34,28/07/1987,203,96
+5,Milan,Katic,Outside Hitter,Serbia,28,22/10/1993,202,99
+6,Nikola,Pekovic,Libero,Serbia,32,06/03/1990,176,77
+7,Petar,Krsmanovic,Middle blocker,Serbia,32,01/06/1990,205,98
+9,Nikola,Jovovic,Setter,Serbia,30,13/02/1992,197,75
+10,Miran,Kujundžić,Outside Hitter,Serbia,25,19/06/1997,196,86
+12,Pavle,Peric,Outside Hitter,Serbia,23,07/08/1998,207,96
+14,Aleksandar,Atanasijevic,Opposite spiker,Serbia,30,04/09/1991,200,92
+15,Nemanja,Masulovic,Middle blocker,Serbia,26,05/10/1995,205,92
+18,Marko,Podrascanin,Middle blocker,Serbia,34,29/08/1987,203,100
+20,Srecko,Lisinac,Middle blocker,Serbia,30,17/05/1992,205,90
+21,Vuk,Todorovic,Setter,Serbia,24,23/04/1998,190,74
+23,Bozidar,Vucicevic,Opposite spiker,Serbia,23,09/12/1998,205,96
+28,Lazar,Marinovic,Outside Hitter,Serbia,24,07/06/1998,197,88
+29,Aleksandar,Nedeljkovic,Middle blocker,Serbia,24,27/10/1997,205,96
+30,Lazar,Koprivica,Libero,Serbia,30,08/11/1991,200,92
+32,Nikola,Meljanac,Opposite spiker,Serbia,23,15/01/1999,201,110
+33,Dusan,Petkovic,Opposite spiker,Serbia,30,27/01/1992,202,86
+35,Andrej,Rudic,Middle blocker,Serbia,23,17/02/1999,201,95
+39,Andrija,Vulikic,Setter,Serbia,25,02/02/1997,193,77
+1,Tonček,Štern,Opposite spiker,Slovenia,26,14/11/1995,200,95
+2,Alen,Pajenk,Middle blocker,Slovenia,36,23/04/1986,203,92
+3,Uroš,Planinšič,Setter,Slovenia,24,09/05/1998,186,84
+4,Jan,Kozamernik,Middle blocker,Slovenia,26,24/12/1995,204,106
+6,Mitja,Gasparini,Opposite spiker,Slovenia,38,26/06/1984,202,93
+7,Alan,Košenina,Libero,Slovenia,25,30/08/1996,189,80
+8,Crtomir,Bošnjak,Outside Hitter,Slovenia,21,21/09/2000,196,88
+9,Dejan,Vincic,Setter,Slovenia,35,15/09/1986,200,93
+10,Sašo,Štalekar,Middle blocker,Slovenia,26,03/05/1996,214,98
+11,Danijel,Koncilja,Middle blocker,Slovenia,31,04/09/1990,201,94
+12,Jan,Klobucar,Outside Hitter,Slovenia,29,11/12/1992,196,92
+13,Jani,Kovačič,Libero,Slovenia,30,14/06/1992,186,83
+14,Žiga,Štern,Outside Hitter,Slovenia,28,02/01/1994,193,88
+15,Matic,Videčnik,Middle blocker,Slovenia,28,31/07/1993,203,98
+16,Gregor,Ropret,Setter,Slovenia,33,01/03/1989,192,89
+17,Tine,Urnaut,Outside Hitter,Slovenia,33,03/09/1988,200,88
+18,Klemen,Čebulj,Outside Hitter,Slovenia,30,21/02/1992,202,96
+19,Rok,Možič,Outside Hitter,Slovenia,20,17/01/2002,200,78
+2,Aaron,Russell,Outside Hitter,United States,29,04/06/1993,205,98
+3,James,Shaw,Setter,United States,28,05/03/1994,203,98
+4,Jeffrey,Jendryk II,Middle blocker,United States,26,15/09/1995,208,89
+5,Kyle,Ensing,Opposite spiker,United States,25,06/03/1997,201,100
+6,Mitchell,Stahl,Middle blocker,United States,27,31/08/1994,203,84
+7,Jacob,Pasteur,Outside Hitter,United States,20,05/06/2002,193,81
+8,Torey,Defalco,Outside Hitter,United States,25,10/04/1997,198,95
+9,Jake,Hanes,Opposite spiker,United States,24,03/05/1998,208,102
+10,Kyle,Dagostino,Libero,United States,27,18/05/1995,175,75
+11,Micah,Christenson,Setter,United States,29,08/05/1993,198,88
+13,Patrick,Gasman,Middle blocker,United States,25,02/01/1997,208,118
+15,Kyle,Russell,Opposite spiker,United States,28,25/08/1993,206,97
+16,Joshua,Tuaniga,Setter,United States,25,18/03/1997,191,102
+17,Thomas,Jaeschke,Outside Hitter,United States,28,04/09/1993,198,84
+18,Garrett,Muagututia,Outside Hitter,United States,34,26/02/1988,205,92
+20,David,Smith,Middle blocker,United States,37,15/05/1985,201,86
+21,Mason,Briggs,Libero,United States,21,21/01/2001,182,70
+22,Erik,Shoji,Libero,United States,32,24/08/1989,184,83
+23,Cody,Kessel,Outside Hitter,United States,30,03/12/1991,196,93
+27,Tyler,Mitchem,Middle blocker,United States,24,24/05/1998,208,102

@@ -1,0 +1,291 @@
+player_number,first_name,last_name,position,nationality,age,birthdate,height_cm,weight_kg
+2,Elise,Van Sas,Setter,Belgium,24,01/08/1997,188,73
+3,Britt,Herbots,Outside Hitter,Belgium,22,24/09/1999,182,63
+4,Nathalie,Lemmens,Middle blocker,Belgium,27,12/03/1995,192,85
+5,Jodie,Guilliams,Outside Hitter,Belgium,25,26/04/1997,180,73
+7,Celine,Van Gestel,Outside Hitter,Belgium,24,07/11/1997,183,70
+9,Nel,Demeyer,Libero,Belgium,21,21/03/2001,175,76
+10,Pauline,Martin,Opposite spiker,Belgium,19,04/09/2002,185,78
+11,Stien,Goris,Outside Hitter,Belgium,21,01/07/2001,185,68
+12,Charlotte,Krenicky,Setter,Belgium,22,29/06/2000,189,80
+13,Marlies,Janssens,Middle blocker,Belgium,25,04/06/1997,193,79
+15,Jutta,Van De Vyver,Setter,Belgium,26,11/06/1996,173,72
+18,Britt,Rampelberg,Libero,Belgium,22,05/06/2000,165,58
+19,Silke,Van Avermaet,Middle blocker,Belgium,23,02/06/1999,192,76
+21,Manon,Stragier,Outside Hitter,Belgium,23,12/03/1999,182,69
+22,Anna,Koulberg,Middle blocker,Belgium,17,17/08/2004,188,67
+2,Diana,Duarte Alecrim,Middle blocker,Brazil,23,22/02/1999,194,69
+3,Julia,Gambatto Kudiess,Middle blocker,Brazil,19,02/01/2003,192,82
+4,Ana Carolina,Da Silva,Middle blocker,Brazil,31,08/04/1991,183,73
+5,Priscila,Zalewski Daroit Moreira,Outside Hitter,Brazil,33,10/08/1988,184,75
+6,Nyeme Victoria,Alexandre Costa Nunes,Libero,Brazil,23,11/10/1998,175,79
+7,Rosamaria,Montibeller,Outside Hitter,Brazil,28,09/04/1994,185,76
+8,Macris Fernanda,Silva Carneiro,Setter,Brazil,33,03/03/1989,178,64
+9,Roberta Silva,Ratzke,Setter,Brazil,32,28/04/1990,185,71
+10,Gabriela,Braga Guimaraes,Outside Hitter,Brazil,28,19/05/1994,180,65
+11,Karina,Barbosa De Souza,Outside Hitter,Brazil,23,30/11/1998,182,65
+12,Ana Cristina,Menezes Oliveira de Souza,Outside Hitter,Brazil,18,07/04/2004,192,79
+14,Natália,Araujo,Libero,Brazil,25,10/04/1997,162,59
+15,Lorena Giovana,Viezel,Middle blocker,Brazil,23,21/07/1999,190,76
+16,Kisy,Nascimento,Opposite spiker,Brazil,22,28/01/2000,191,81
+17,Julia Isabelle,Bergmann,Outside Hitter,Brazil,21,21/02/2001,196,78
+18,Mayany Cristina,Araujo De Souza,Middle blocker,Brazil,25,24/11/1996,185,72
+20,Lorrayna,Da Silva,Opposite spiker,Brazil,23,19/06/1999,185,62
+24,Lorenne,Geraldo Teixeira,Opposite spiker,Brazil,26,08/01/1996,187,72
+1,Gergana,Dimitrova,Outside Hitter,Bulgaria,26,28/02/1996,184,71
+2,Nasya,Dimitrova,Middle blocker,Bulgaria,29,06/11/1992,190,70
+3,Polina,Neykova,Universal,Bulgaria,23,07/10/1998,182,73
+5,Maria,Yordanova,Opposite spiker,Bulgaria,20,25/05/2002,181,72
+6,Miroslava,Paskova,Outside Hitter,Bulgaria,26,16/02/1996,180,67
+7,Lora,Kitipova,Setter,Bulgaria,31,19/05/1991,184,66
+8,Petya,Barakova,Setter,Bulgaria,28,18/06/1994,180,76
+9,Borislava,Saykova,Middle blocker,Bulgaria,22,14/07/2000,187,80
+10,Mira,Todorova,Middle blocker,Bulgaria,28,12/04/1994,187,73
+11,Hristina Hristova,Vuchkova,Middle blocker,Bulgaria,30,01/10/1991,190,77
+15,Zhana,Todorova,Libero,Bulgaria,25,06/01/1997,170,56
+17,Radostina,Marinova,Opposite spiker,Bulgaria,23,02/10/1998,186,65
+18,Silvana,Chausheva,Outside Hitter,Bulgaria,27,19/05/1995,188,75
+19,Aleksandra,Milanova,Outside Hitter,Bulgaria,21,04/07/2001,180,72
+26,Mirela,Shahpazova,Universal,Bulgaria,24,28/10/1997,175,65
+28,Mariya,Krivoshiyska,Middle blocker,Bulgaria,20,06/09/2001,186,58
+29,Ralitsa,Vasileva,Opposite spiker,Bulgaria,30,17/03/1992,187,68
+1,Allyssah Marie,Fitterer,Middle blocker,Canada,27,27/05/1995,189,82
+3,Kiera,Van Ryk,Outside Hitter,Canada,23,06/01/1999,188,85
+5,Julia,Murmann,Libero,Canada,19,10/11/2002,181,76
+6,Jazmine Ruth,White,Middle blocker,Canada,28,14/12/1993,186,80
+8,Alicia,Ogoms,Middle blocker,Canada,28,02/04/1994,194,82
+9,Alexa,Gray,Outside Hitter,Canada,27,07/08/1994,185,75
+10,Courtney,Baker,Setter,Canada,25,14/07/1997,180,68
+11,Andrea,Mitrovic,Outside Hitter,Canada,23,03/06/1999,187,70
+12,Jennifer,Cross,Middle blocker,Canada,30,04/07/1992,194,91
+13,Brie,King,Setter,Canada,24,24/01/1998,183,70
+14,Hilary,Howe,Outside Hitter,Canada,24,16/06/1998,185,77
+16,Caroline,Livingston,Outside Hitter,Canada,26,02/04/1996,188,65
+17,Katerina,Georgiadis,Libero,Canada,20,07/01/2002,168,54
+18,Kim,Robitaille,Setter,Canada,30,16/10/1991,179,59
+19,Emily,Maglio,Middle blocker,Canada,25,13/11/1996,189,82
+20,Arielle,Palermo,Libero,Canada,21,09/11/2000,170,55
+25,Sydney,Grills,Opposite spiker,Canada,22,09/02/2000,192,85
+1,Xinyue,Yuan,Middle blocker,China,25,21/12/1996,201,78
+3,Linyu,Diao,Setter,China,28,07/04/1994,182,69
+4,Hanyu,Yang,Middle blocker,China,22,12/10/1999,192,72
+5,Yi,Gao,Middle blocker,China,24,22/07/1998,193,66
+6,Xiangyu,Gong,Opposite spiker,China,25,21/04/1997,186,72
+7,Yuanyuan,Wang,Middle blocker,China,25,14/07/1997,195,75
+8,Ye,Jin,Outside Hitter,China,26,01/03/1996,187,77
+10,Yunlu,Wang,Outside Hitter,China,26,20/05/1996,192,82
+11,Yizhu,Wang,Outside Hitter,China,21,23/03/2001,189,75
+12,Yingying,Li,Outside Hitter,China,22,19/02/2000,192,71
+13,Yaqian,Cai,Setter,China,24,29/06/1998,179,69
+14,Yixin,Zheng,Middle blocker,China,27,06/05/1995,187,71
+15,Weiyi,Wang,Libero,China,27,20/06/1995,175,75
+16,Xia,Ding,Setter,China,32,13/01/1990,180,67
+17,Feifan,Ni,Libero,China,21,14/02/2001,175,67
+18,Yiwen,Miao,Opposite spiker,China,21,26/07/2000,186,71
+19,Peiyan,Chen,Opposite spiker,China,22,16/09/1999,193,79
+2,Yaneirys,Rodriguez Duran,Libero,Dominican Republic,22,26/06/2000,171,56
+3,Esthefany,Rabit,Libero,Dominican Republic,20,18/01/2002,190,82
+4,Vielka Michelle,Peralta Luna,Outside Hitter,Dominican Republic,23,13/04/1999,186,56
+6,Camil Inmaculada,Dominguez Martinez,Setter,Dominican Republic,30,07/12/1991,176,75
+7,Niverka Dharlenis,Marte Frica,Setter,Dominican Republic,31,19/10/1990,178,71
+9,Angelica Maria,Hinojosa Diaz,Middle blocker,Dominican Republic,25,10/01/1997,186,72
+12,Yokaty,Perez Flores,Libero,Dominican Republic,23,06/08/1998,178,79
+13,Massiel,Matos Duran,Outside Hitter,Dominican Republic,24,16/04/1998,188,66
+15,Madeline Jazmin,Guillen Paredes,Outside Hitter,Dominican Republic,21,04/06/2001,186,74
+16,Yonkaira Paola,Peña Isabel,Outside Hitter,Dominican Republic,29,10/05/1993,190,70
+17,Gina Altagracia,Mambru Casilla,Opposite spiker,Dominican Republic,36,21/01/1986,182,65
+20,Brayelin Elizabeth,Martinez,Outside Hitter,Dominican Republic,25,11/09/1996,201,83
+21,Jineiry,Martinez,Middle blocker,Dominican Republic,24,03/12/1997,192,68
+22,Samaret Jailene,Caraballo Arias,Outside Hitter,Dominican Republic,23,08/07/1999,176,70
+23,Gaila Ceneida,Gonzalez Lopez,Opposite spiker,Dominican Republic,25,25/06/1997,190,73
+24,Geraldine Sthefany,Gonzalez,Middle blocker,Dominican Republic,20,18/04/2002,200,77
+25,Larysmer,Martinez Caro,Libero,Dominican Republic,25,18/10/1996,174,68
+1,Linda,Bock,Libero,Germany,22,27/05/2000,172,60
+2,Pia,Kästner,Setter,Germany,24,29/06/1998,182,68
+4,Anna,Pogany,Libero,Germany,28,21/07/1994,170,60
+5,Corina,Glaab,Setter,Germany,22,25/05/2000,180,65
+6,Jennifer,Janiska,Outside Hitter,Germany,28,05/04/1994,184,58
+7,Ivana,Vanjak,Outside Hitter,Germany,27,30/05/1995,193,80
+9,Lina,Alsmeier,Outside Hitter,Germany,22,29/06/2000,189,70
+10,Lena,Stigrot,Outside Hitter,Germany,27,20/12/1994,184,68
+12,Hanna,Orthmann,Outside Hitter,Germany,23,03/10/1998,188,74
+13,Saskia,Hippe,Opposite spiker,Germany,31,16/01/1991,185,67
+14,Marie,Schölzel,Middle blocker,Germany,24,01/08/1997,190,73
+21,Camilla,Weitzel,Middle blocker,Germany,22,11/06/2000,195,75
+22,Monique,Strubbe,Middle blocker,Germany,21,05/07/2001,189,75
+23,Sarah,Straube,Setter,Germany,20,26/04/2002,185,63
+24,Anastasia,Cekulaev,Middle blocker,Germany,19,01/07/2003,187,64
+1,Marina,Lubian,Middle blocker,Italy,22,11/04/2000,193,81
+2,Francesca,Bosio,Setter,Italy,24,07/08/1997,179,78
+3,Alessia,Gennari,Outside Hitter,Italy,30,03/11/1991,184,74
+4,Sara,Bonifacio,Middle blocker,Italy,26,03/07/1996,186,75
+5,Ofelia,Malinov,Setter,Italy,26,29/02/1996,182,70
+6,Monica,De Gennaro,Libero,Italy,35,08/01/1987,174,67
+7,Eleonora,Fersino,Libero,Italy,22,24/01/2000,169,69
+8,Alessia,Orro,Setter,Italy,24,18/07/1998,178,74
+9,Caterina Chiara,Bosetti,Outside Hitter,Italy,28,02/02/1994,179,62
+10,Cristina,Chirichella,Middle blocker,Italy,28,10/02/1994,191,79
+11,Anna,Danesi,Middle blocker,Italy,26,20/04/1996,195,78
+12,Anastasia,Guerra,Outside Hitter,Italy,25,15/10/1996,183,74
+14,Elena,Pietrini,Outside Hitter,Italy,22,17/03/2000,188,73
+15,Sylvia Chinelo,Nwakalor,Opposite spiker,Italy,22,12/08/1999,179,75
+16,Sofia,D'Odorico,Outside Hitter,Italy,25,06/01/1997,186,78
+17,Miryam Fatime,Sylla,Outside Hitter,Italy,27,08/01/1995,184,80
+18,Paola Ogechi,Egonu,Opposite spiker,Italy,23,18/12/1998,193,74
+21,Alice Carlotta,Degradi,Outside Hitter,Italy,26,10/04/1996,182,75
+22,Nkemdilim Ruth Terry,Enweonwu,Opposite spiker,Italy,22,12/05/2000,187,86
+23,Elena,Perinelli,Outside Hitter,Italy,27,27/06/1995,182,66
+24,Alessia,Mazzaro,Middle blocker,Italy,23,19/09/1998,184,66
+1,Akane,Moriya,Libero,Japan,31,08/01/1991,165,55
+2,Mami,Uchiseto,Outside Hitter,Japan,30,25/10/1991,172,69
+3,Sarina,Koga,Outside Hitter,Japan,26,21/05/1996,180,66
+4,Mayu,Ishikawa,Outside Hitter,Japan,22,14/05/2000,174,64
+5,Haruyo,Shimamura,Middle blocker,Japan,30,04/03/1992,182,78
+8,Haruka,Miyashita,Setter,Japan,27,01/09/1994,176,60
+9,Manami,Kojima,Libero,Japan,27,07/11/1994,158,58
+10,Arisa,Inoue,Outside Hitter,Japan,27,08/05/1995,178,68
+14,Fuyumi Hawi,Okumu Oba,Outside Hitter,Japan,24,27/06/1998,178,76
+15,Kotona,Hayashi,Outside Hitter,Japan,22,13/11/1999,173,60
+19,Nichika,Yamada,Middle blocker,Japan,22,24/02/2000,184,74
+23,Mami,Yokota,Middle blocker,Japan,24,10/12/1997,177,63
+24,Tamaki,Matsui,Setter,Japan,24,10/01/1998,170,63
+25,Erina,Ogawa,Middle blocker,Japan,24,03/06/1998,178,64
+26,Airi,Miyabe,Outside Hitter,Japan,23,29/07/1998,181,66
+28,Asuka,Hamamatsu,Middle blocker,Japan,23,22/12/1998,181,77
+30,Nanami,Seki,Setter,Japan,23,12/06/1999,171,61
+38,Yoshino,Sato,Outside Hitter,Japan,20,12/11/2001,177,62
+3,Hye Seon,Yeum,Setter,Korea,31,03/02/1991,176,66
+4,Dahye,Han,Libero,Korea,27,28/02/1995,164,51
+5,Ran,Noh,Libero,Korea,28,17/03/1994,166,58
+6,Seonwoo,Lee,Outside Hitter,Korea,20,12/07/2002,183,68
+7,Sohwi,Kang,Outside Hitter,Korea,25,18/07/1997,180,65
+8,Hoyoung,Jung,Middle blocker,Korea,20,23/08/2001,190,70
+9,Juah,Lee,Middle blocker,Korea,21,21/08/2000,185,71
+10,Yerim,Go,Outside Hitter,Korea,28,12/06/1994,177,64
+11,Hyemin,Park,Outside Hitter,Korea,21,08/11/2000,180,63
+12,Dahyeon,Lee,Middle blocker,Korea,20,11/11/2001,185,70
+13,Jeongah,Park,Outside Hitter,Korea,29,26/03/1993,187,75
+15,Minkyoung,Hwang,Outside Hitter,Korea,32,02/06/1990,174,63
+16,Hanbi,Lee,Outside Hitter,Korea,25,28/10/1996,177,73
+17,Haejin,Park,Setter,Korea,20,15/04/2002,177,62
+18,Jeongmin,Choi,Libero,Korea,19,21/12/2002,180,62
+19,Heejin,Kim,Opposite spiker,Korea,31,29/04/1991,185,80
+22,Hyejin,An,Setter,Korea,24,16/02/1998,175,64
+2,Fleur,Savelkoel,Outside Hitter,Netherlands,26,22/08/1995,184,77
+4,Celeste,Plak,Opposite spiker,Netherlands,26,26/10/1995,190,87
+5,Jolien,Knollema,Outside Hitter,Netherlands,19,05/01/2003,189,73
+7,Juliet,Lohuis,Middle blocker,Netherlands,25,10/09/1996,190,77
+8,Demi,Korevaar,Middle blocker,Netherlands,21,09/08/2000,187,71
+9,Myrthe,Schoot,Libero,Netherlands,33,29/08/1988,182,70
+10,Sarah,van Aalen,Setter,Netherlands,22,21/01/2000,183,68
+11,Anne,Buijs,Outside Hitter,Netherlands,30,02/12/1991,191,73
+12,Britt,Bongaerts,Setter,Netherlands,25,03/11/1996,185,68
+14,Laura,Dijkema,Setter,Netherlands,32,18/02/1990,184,70
+16,Indy,Baijens,Middle blocker,Netherlands,21,04/02/2001,193,75
+17,Iris,Vos,Outside Hitter,Netherlands,19,15/10/2002,184,-
+18,Marrit,Jasper,Outside Hitter,Netherlands,26,28/02/1996,180,75
+19,Nika,Daalderop,Outside Hitter,Netherlands,23,29/11/1998,189,72
+23,Eline,Timmerman,Middle blocker,Netherlands,23,30/12/1998,192,78
+24,Laura,de Zwart,Middle blocker,Netherlands,23,19/03/1999,199,87
+25,Florien,Reesink,Libero,Netherlands,24,09/06/1998,174,61
+26,Elles,Dambrink,Opposite spiker,Netherlands,19,22/06/2003,184,80
+1,Maria,Stenzel,Libero,Poland,23,25/11/1998,168,53
+2,Anna,Stencel,Middle blocker,Poland,26,28/08/1995,187,71
+3,Klaudia,Alagierska,Middle blocker,Poland,26,02/01/1996,190,76
+5,Agnieszka,Kakolewska,Middle blocker,Poland,27,17/10/1994,197,75
+6,Kamila,Witkowska,Middle blocker,Poland,30,02/12/1991,191,76
+8,Zuzanna,Gorecka,Outside Hitter,Poland,22,10/04/2000,181,63
+10,Monika,Fedusio,Outside Hitter,Poland,22,06/11/1999,183,76
+11,Martyna,Lukasik,Outside Hitter,Poland,22,26/11/1999,189,75
+12,Aleksandra,Szczyglowska,Libero,Poland,24,22/03/1998,172,58
+14,Joanna,Wolosz,Setter,Poland,32,07/04/1990,181,71
+15,Martyna,Czyrnianska,Outside Hitter,Poland,18,13/10/2003,191,75
+18,Aleksandra,Gryka,Middle blocker,Poland,22,06/02/2000,190,71
+21,Alicja,Grabka,Setter,Poland,24,09/05/1998,178,62
+22,Weronika,Szlagowska,Outside Hitter,Poland,20,29/11/2001,188,70
+26,Katarzyna,Wenerska,Setter,Poland,29,09/03/1993,180,62
+30,Olivia,Rozanski,Outside Hitter,Poland,25,05/06/1997,185,74
+95,Magdalena,Jurczyk,Middle blocker,Poland,26,28/10/1995,183,70
+1,Bianka,Busa,Outside Hitter,Serbia,28,25/07/1994,187,74
+2,Katarina,Lazovic,Outside Hitter,Serbia,22,12/09/1999,182,65
+4,Bojana,Drca,Setter,Serbia,34,29/03/1988,186,70
+5,Mina,Popovic,Middle blocker,Serbia,27,16/09/1994,187,73
+7,Ana,Jaksic,Setter,Serbia,24,10/03/1998,178,64
+8,Sladjana,Mirkovic,Setter,Serbia,26,07/10/1995,185,78
+9,Brankica,Mihajlovic,Outside Hitter,Serbia,31,13/04/1991,190,83
+12,Teodora,Pusic,Libero,Serbia,29,12/03/1993,170,58
+13,Ana,Bjelica,Opposite spiker,Serbia,30,03/04/1992,190,78
+14,Maja,Aleksic,Middle blocker,Serbia,25,06/06/1997,188,72
+15,Jovana,Stevanovic,Middle blocker,Serbia,30,30/06/1992,192,72
+19,Bojana,Milenkovic,Outside Hitter,Serbia,25,06/03/1997,185,70
+20,Jovana,Zelenovic,Opposite spiker,Serbia,18,13/06/2004,200,92
+21,Jovana,Kocic,Middle blocker,Serbia,24,24/02/1998,190,85
+22,Sara,Lozo,Opposite spiker,Serbia,25,29/04/1997,186,61
+28,Jelena,Delic,Middle blocker,Serbia,22,17/07/2000,193,74
+31,Sanja,Djurdjevic,Libero,Serbia,24,25/03/1998,177,63
+34,Jovana,Mirosavljevic,Outside Hitter,Serbia,22,16/01/2000,183,68
+35,Mina,Mijatovic,Outside Hitter,Serbia,20,16/10/2001,190,70
+1,Wipawee,Srithong,Outside Hitter,Thailand,23,28/01/1999,174,65
+2,Piyanut,Pannoy,Libero,Thailand,32,10/11/1989,170,63
+3,Pornpun,Guedpard,Setter,Thailand,29,05/05/1993,170,63
+4,Thatdao,Nuekjang,Middle blocker,Thailand,28,03/02/1994,184,72
+6,Kannika,Thipachot,Outside Hitter,Thailand,29,03/05/1993,167,67
+9,Jarasporn,Bundasak,Middle blocker,Thailand,29,01/03/1993,181,65
+11,Khatthalee,Pinsuwan,Outside Hitter,Thailand,27,30/10/1994,170,70
+12,Hattaya,Bamrungsuk,Middle blocker,Thailand,28,12/08/1993,180,71
+13,Natthanicha,Jaisaen,Setter,Thailand,24,21/05/1998,171,55
+14,Sutadta,Chuewulim,Outside Hitter,Thailand,29,19/12/1992,173,67
+15,Kaewkalaya,Kamulthala,Middle blocker,Thailand,27,07/08/1994,178,66
+16,Pimpichaya,Kokram,Opposite spiker,Thailand,24,16/06/1998,178,62
+17,Tichaya,Boonlert,Setter,Thailand,25,14/02/1997,179,64
+18,Ajcharaporn,Kongyot,Outside Hitter,Thailand,27,18/06/1995,178,65
+19,Chatchu-On,Moksri,Outside Hitter,Thailand,22,06/11/1999,178,58
+20,Supattra,Pairoj,Libero,Thailand,32,27/06/1990,160,58
+21,Thanacha,Sooksod,Opposite spiker,Thailand,22,26/05/2000,180,70
+22,Nattaporn,Sanitklang,Libero,Thailand,30,14/08/1991,166,55
+23,Sirima,ManaKij,Setter,Thailand,31,11/01/1991,168,57
+24,Tichakorn,Boonlert,Middle blocker,Thailand,21,22/03/2001,180,78
+25,Sasipapron,Janthawisut,Outside Hitter,Thailand,25,10/06/1997,175,65
+1,Beyza,Arici,Middle blocker,Türkiye,26,27/07/1995,190,78
+2,Simge Sebnem,Akoz,Libero,Türkiye,31,23/04/1991,168,60
+3,Cansu,Özbay,Setter,Türkiye,25,17/10/1996,179,78
+4,Tugba,Senoglu,Outside Hitter,Türkiye,24,02/02/1998,182,73
+5,Bahar,Akbay,Middle blocker,Türkiye,24,21/01/1998,188,76
+6,Saliha,Sahin,Outside Hitter,Türkiye,23,05/11/1998,183,72
+7,Hande,Baladin,Outside Hitter,Türkiye,24,01/09/1997,187,78
+9,Meliha,Ismailoglu,Outside Hitter,Türkiye,28,17/09/1993,182,74
+10,Ayca,Aykac,Libero,Türkiye,26,27/02/1996,173,62
+11,Derya,Cebecioglu,Outside Hitter,Türkiye,21,24/10/2000,181,69
+12,Elif,Şahin,Setter,Türkiye,21,19/01/2001,184,73
+13,Meryem,Boz,Opposite spiker,Türkiye,34,03/02/1988,190,75
+14,Eda,Erdem Dündar,Middle blocker,Türkiye,35,22/06/1987,188,79
+17,Sila,Caliskan,Setter,Türkiye,25,16/12/1996,183,75
+18,Zehra,Gunes,Middle blocker,Türkiye,23,07/07/1999,198,84
+19,Ceren,Kapucu,Opposite spiker,Türkiye,29,19/07/1993,190,77
+20,Aylin,Acar,Outside Hitter,Türkiye,27,21/07/1995,172,72
+22,İlkin,Aydin,Outside Hitter,Türkiye,22,05/01/2000,179,74
+99,Ebrar,Karakurt,Opposite spiker,Türkiye,22,17/01/2000,195,78
+1,Micha,Hancock,Setter,United States,29,10/11/1992,180,75
+2,Jordyn,Poulter,Setter,United States,24,31/07/1997,188,77
+3,Kathryn,Plummer,Outside Hitter,United States,23,16/10/1998,198,82
+4,Justine,Wong-Orantes,Libero,United States,26,06/10/1995,168,66
+5,Morgan,Hentz,Libero,United States,23,27/07/1998,175,66
+6,Tetori,Dixon,Middle blocker,United States,29,04/08/1992,191,83
+7,Lauren,Carlini,Setter,United States,27,28/02/1995,185,75
+8,Hannah,Tapp,Middle blocker,United States,27,21/06/1995,191,77
+9,Madison Kingdon,Rishel,Outside Hitter,United States,29,20/04/1993,183,75
+10,Brionne,Butler,Middle blocker,United States,23,29/01/1999,194,78
+11,Andrea,Drews,Opposite spiker,United States,28,25/12/1993,191,77
+12,Jordan,Thompson,Opposite spiker,United States,25,05/05/1997,193,70
+13,Sarah,Wilhite,Outside Hitter,United States,26,30/07/1995,185,75
+15,Haleigh,Washington,Middle blocker,United States,26,22/09/1995,190,82
+16,Dana,Rettke,Middle blocker,United States,23,21/01/1999,203,80
+18,Kara,Bajema,Outside Hitter,United States,24,24/03/1998,190,75
+19,Jenna,Gray,Setter,United States,24,28/02/1998,185,75
+20,Danielle,Cuttino,Opposite spiker,United States,26,22/06/1996,195,84
+22,Kendall,White,Libero,United States,25,07/07/1997,165,75
+23,Kelsey,Robinson,Outside Hitter,United States,30,25/06/1992,188,73
+24,Chiaka,Ogbogu,Middle blocker,United States,27,15/04/1995,188,73
+30,Alexandra,Frantti,Outside Hitter,United States,26,03/03/1996,191,57
+31,Anna,Stevenson,Middle blocker,United States,23,08/07/1999,188,73
+33,Nia,Reed,Opposite spiker,United States,26,27/06/1996,185,81
