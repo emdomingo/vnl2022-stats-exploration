@@ -1,6 +1,7 @@
 from requests_html import HTMLSession
 import pandas as pd
 import logging
+import os
 
 s = HTMLSession()
 
@@ -22,6 +23,7 @@ def get_match_team_stats(url):
     r.html.render(sleep=5)
 
     try:
+        phase = r.html.find('div.vbw-mu__info--details', first=True).text.split(' - ')[0]
         division = r.html.find('div.vbw-mu__info--details', first=True).text.split(' - ')[-1]
 
         team_a = r.html.find('div.vbw-mu__team--home div.vbw-mu__team__name', first=True).text
@@ -43,6 +45,8 @@ def get_match_team_stats(url):
                 set_scores_a.append(int(scores[0]))
                 set_scores_b.append(int(scores[1]))
 
+        sets_played = len(set_scores_a)
+        
         team_a_stats, team_b_stats = [], []
         stat_list = ['attack', 'block', 'serve', 'opponent-error', 'total', 'dig', 'reception', 'set']
 
@@ -51,10 +55,10 @@ def get_match_team_stats(url):
             team_a_stats.append(stats[0].text)
             team_b_stats.append(stats[1].text)
 
-        # team, opponent, division, sets_won, [sets_scores], attacks, blocks, aces, opp_errors, total_points, digs, receptions, sets, errors_committed, opp_points
-        data_one = [team_a, team_b, division, score_a, set_scores_a, team_a_stats[0], team_a_stats[1], team_a_stats[2], 
+        # team, opponent, division, phase, sets_won, sets_played, [sets_scores], attacks, blocks, aces, opp_errors, total_points, digs, receptions, sets, errors_committed, opp_points
+        data_one = [team_a, team_b, division, phase, score_a, sets_played, set_scores_a, team_a_stats[0], team_a_stats[1], team_a_stats[2], 
                     team_a_stats[3], team_a_stats[4], team_a_stats[5], team_a_stats[6], team_a_stats[7], team_b_stats[3], team_b_stats[4]]
-        data_two = [team_b, team_a, division, score_b, set_scores_b, team_b_stats[0], team_b_stats[1], team_b_stats[2], 
+        data_two = [team_b, team_a, division, phase, score_b, sets_played, set_scores_b, team_b_stats[0], team_b_stats[1], team_b_stats[2], 
                     team_b_stats[3], team_b_stats[4], team_b_stats[5], team_b_stats[6], team_b_stats[7], team_a_stats[3], team_a_stats[4]]
 
         return data_one, data_two
@@ -71,32 +75,30 @@ def get_match_team_stats(url):
 
 def main():
     
-    logging.basicConfig(filename='match_stats_log.log', encoding='utf-8', level=logging.INFO)
-    
+    logging.basicConfig(filename='./logs/match_stats.log', encoding='utf-8', level=logging.INFO)
     
     url = 'https://en.volleyballworld.com/volleyball/competitions/vnl-2022/schedule/'
     
-    # trial_links = [['Women', 'https://en.volleyballworld.com/volleyball/competitions/vnl-2022/schedule/13851/'],
-    #                ['Men', 'https://en.volleyballworld.com/volleyball/competitions/vnl-2022/schedule/13714/'],
-    #                ['Women', 'https://en.volleyballworld.com/volleyball/competitions/vnl-2022/schedule/13841/'],
-    #                ['Women', 'https://en.volleyballworld.com/volleyball/competitions/vnl-2022/schedule/13838/'],
-    #                ['Men', 'https://en.volleyballworld.com/volleyball/competitions/vnl-2022/schedule/13698/'],
-    #                ['Women', 'https://en.volleyballworld.com/volleyball/competitions/vnl-2022/schedule/13815/']]
-
-    # try: unfinished match
-    
-    
     match_links = get_match_links(url)
-    match_data = []
+     
+    col_names = ['team', 'opponent', 'division', 'phase', 'sets_won', 'sets_played', 'sets_scores', 'team_attacks', 'team_blocks', 'team_aces', 'opp_errors', 'team_total_points', 'team_digs', 'team_receptions', 'team_sets', 'team_err_committed', 'opp_points']
+    
     for division, link in match_links: ##
-        if division == 'Men': ## EDIT THIS WHEN SCRAPING MEN'S DIVISION LATER
-            data_one, data_two = get_match_team_stats(link) 
-            if data_one != None: match_data.append(data_one) ## get_match_team_stats returns None if Error
-            if data_two != None: match_data.append(data_two)
-    col_names = ['team', 'opponent', 'division', 'sets_won', 'sets_scores', 'attacks', 'blocks', 'aces', 'opp_errors', 'total_points', 'digs', 'receptions', 'sets', 'err_committed', 'opp_points']
-    df = pd.DataFrame(match_data, columns=col_names)
-    df.to_csv('match_data_m.csv', index=False)
-    
-    
+        
+        match_data = []
+        data_one, data_two = get_match_team_stats(link) 
+        if data_one != None: match_data.append(data_one) ## get_match_team_stats returns None if Error
+        if data_two != None: match_data.append(data_two)
+        
+        if division == 'Men':
+            output_path = './data/raw/m_match_data.csv'
+            df = pd.DataFrame(match_data, columns=col_names)
+            df.to_csv(output_path, mode='a', index=False, header=not os.path.exists(output_path))
+            
+        if division == 'Women':
+            output_path = './data/raw/w_match_data.csv'
+            df = pd.DataFrame(match_data, columns=col_names)
+            df.to_csv(output_path, mode='a', index=False, header=not os.path.exists(output_path))
+
 if __name__ == '__main__':
    main()
