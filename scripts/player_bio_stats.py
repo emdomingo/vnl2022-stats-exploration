@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 import logging
 import time
+import os
 
 ###
 # NOTE: Trouble with Turkiye and Turkey
@@ -188,10 +189,11 @@ def main():
         
         team_links = get_team_links(url)
         
-        player_bio = []
-        stats_df = pd.DataFrame()
-        
         for team_link, country in team_links:
+            
+            player_bio = []
+            stats_df = pd.DataFrame()
+            
             logging.info(f'Started scraping team {country}')
             print(f'Started scraping team {country}')
             player_links = get_player_links(team_link)
@@ -204,15 +206,16 @@ def main():
                 stats_df = pd.concat([stats_df, player_stats_df], ignore_index=True)
                 time.sleep(1)
 
-            time.sleep(3)
+            player_bio = list(filter(None, player_bio))           
+            bio_df = pd.DataFrame(player_bio)
             
-        player_bio = list(filter(None, player_bio))
-        #RESEARCH: dataframe concat with None, personal code tests looks like concat ignores the None   
-        
-        bio_df = pd.DataFrame(player_bio)
-        
-        bio_df.to_csv(f'../data/raw/{div[0].lower()}_player_bios.csv', index=False)
-        stats_df.to_csv(f'../data/raw/{div[0].lower()}_player_stats.csv', index=False)
+            bio_path = f'./data/raw/{div[0].lower()}_player_bios.csv'
+            stats_path = f'./data/raw/{div[0].lower()}_player_stats.csv'
+            
+            bio_df.to_csv(bio_path, mode='a', index=False, header=not os.path.exists(bio_path))
+            stats_df.to_csv(stats_path, mode='a', index=False, header=not os.path.exists(stats_path))
+            
+            time.sleep(3)
     
 if __name__ == '__main__':
    main()
