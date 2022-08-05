@@ -1,0 +1,417 @@
+team,opponent,division,phase,sets_won,sets_played,sets_scores,team_attacks,team_blocks,team_aces,opp_errors,team_total_points,team_digs,team_receptions,team_sets,team_err_committed,opp_points
+Bulgaria,Serbia,Men,Pool,1,4,"[25, 19, 22, 20]",52,15,3,16,86,56,85,98,28,94
+Serbia,Bulgaria,Men,Pool,3,4,"[19, 25, 25, 25]",54,4,8,28,94,76,74,105,16,86
+China,Iran,Men,Pool,1,4,"[15, 25, 22, 15]",44,6,5,22,77,30,78,59,25,94
+Iran,China,Men,Pool,3,4,"[25, 19, 25, 25]",48,7,14,25,94,39,65,63,22,77
+Canada,Germany,Men,Pool,0,3,"[19, 20, 28]",37,4,4,22,67,42,62,77,23,80
+Germany,Canada,Men,Pool,3,3,"[25, 25, 30]",43,6,8,23,80,42,58,85,22,67
+Slovenia,United States,Men,Pool,0,3,"[19, 19, 14]",27,4,3,18,52,37,61,45,18,75
+United States,Slovenia,Men,Pool,3,3,"[25, 25, 25]",36,14,7,18,75,38,41,40,18,52
+Poland,Argentina,Men,Pool,3,3,"[25, 25, 25]",45,7,3,20,75,52,52,85,26,66
+Argentina,Poland,Men,Pool,0,3,"[21, 22, 23]",31,6,3,26,66,51,57,83,20,75
+Japan,Netherlands,Men,Pool,3,4,"[22, 26, 25, 25]",54,10,6,28,98,57,73,108,28,88
+Netherlands,Japan,Men,Pool,1,4,"[25, 24, 22, 17]",48,9,3,28,88,45,82,102,28,98
+France,Italy,Men,Pool,3,3,"[25, 26, 25]",37,6,4,29,76,59,49,83,23,65
+Italy,France,Men,Pool,0,3,"[22, 24, 19]",34,6,2,23,65,60,60,95,29,76
+Brazil,Australia,Men,Pool,3,3,"[25, 25, 25]",29,11,5,30,75,50,36,74,12,53
+Australia,Brazil,Men,Pool,0,3,"[14, 18, 21]",35,5,1,12,53,49,66,87,30,75
+Germany,Argentina,Men,Pool,1,4,"[25, 22, 17, 20]",48,6,9,21,84,52,80,101,30,93
+Argentina,Germany,Men,Pool,3,4,"[18, 25, 25, 25]",47,10,6,30,93,58,67,94,21,84
+Japan,China,Men,Pool,3,4,"[21, 25, 25, 25]",56,4,8,28,96,48,64,95,34,81
+China,Japan,Men,Pool,1,4,"[25, 19, 19, 18]",37,10,0,34,81,28,69,78,28,96
+Serbia,France,Men,Pool,1,4,"[25, 22, 23, 23]",57,6,3,27,93,77,76,111,25,96
+France,Serbia,Men,Pool,3,4,"[21, 25, 25, 25]",51,10,10,25,96,64,77,108,27,93
+Netherlands,United States,Men,Pool,0,3,"[12, 18, 16]",26,5,0,15,46,29,65,75,20,75
+United States,Netherlands,Men,Pool,3,3,"[25, 25, 25]",42,8,5,20,75,40,38,65,15,46
+Poland,Italy,Men,Pool,1,4,"[25, 23, 20, 20]",47,6,4,31,88,51,73,95,38,96
+Italy,Poland,Men,Pool,3,4,"[21, 25, 25, 25]",48,5,5,38,96,58,66,94,31,88
+Brazil,Slovenia,Men,Pool,3,4,"[25, 21, 25, 25]",47,11,8,30,96,48,60,83,18,82
+Slovenia,Brazil,Men,Pool,1,4,"[21, 25, 20, 16]",52,6,6,18,82,48,81,102,30,96
+Serbia,Argentina,Men,Pool,3,5,"[25, 25, 17, 12, 15]",47,11,6,30,94,54,72,94,17,90
+Argentina,Serbia,Men,Pool,2,5,"[16, 18, 25, 25, 6]",55,10,8,17,90,55,85,109,30,94
+Netherlands,Iran,Men,Pool,3,3,"[26, 25, 25]",48,8,2,18,76,40,57,77,22,66
+Iran,Netherlands,Men,Pool,0,3,"[24, 21, 21]",36,1,7,22,66,35,58,75,18,76
+Bulgaria,Germany,Men,Pool,2,5,"[20, 25, 16, 25, 10]",58,10,2,26,96,47,91,107,28,107
+Germany,Bulgaria,Men,Pool,3,5,"[25, 22, 25, 20, 15]",61,13,5,28,107,63,78,111,26,96
+Japan,United States,Men,Pool,2,5,"[25, 15, 21, 28, 9]",60,3,1,34,98,85,83,140,30,108
+United States,Japan,Men,Pool,3,5,"[17, 25, 25, 26, 15]",64,10,4,30,108,72,82,128,34,98
+France,Canada,Men,Pool,3,3,"[25, 25, 25]",36,8,6,25,75,46,48,73,20,60
+Canada,France,Men,Pool,0,3,"[16, 23, 21]",28,7,5,20,60,41,57,69,25,75
+Australia,Slovenia,Men,Pool,0,3,"[22, 20, 21]",36,3,2,22,63,41,58,78,22,75
+Slovenia,Australia,Men,Pool,3,3,"[25, 25, 25]",43,7,3,22,75,34,51,66,22,63
+Germany,Serbia,Men,Pool,3,5,"[27, 25, 18, 28, 18]",60,16,9,31,116,81,102,141,29,119
+Serbia,Germany,Men,Pool,2,5,"[25, 27, 25, 26, 16]",71,9,10,29,119,80,96,138,31,116
+United States,Brazil,Men,Pool,3,4,"[21, 27, 25, 25]",55,8,5,30,98,58,69,107,23,90
+Brazil,United States,Men,Pool,1,4,"[25, 25, 20, 20]",56,8,3,23,90,50,81,104,30,98
+Bulgaria,Poland,Men,Pool,0,3,"[19, 19, 23]",36,8,2,15,61,43,64,84,21,75
+Poland,Bulgaria,Men,Pool,3,3,"[25, 25, 25]",44,4,6,21,75,53,49,82,15,61
+Slovenia,China,Men,Pool,3,4,"[25, 25, 18, 27]",56,9,2,28,95,51,75,107,26,85
+China,Slovenia,Men,Pool,1,4,"[15, 20, 25, 25]",47,9,3,26,85,36,79,97,28,95
+Canada,Italy,Men,Pool,0,3,"[21, 18, 19]",27,9,0,22,58,30,61,82,18,75
+Italy,Canada,Men,Pool,3,3,"[25, 25, 25]",47,7,3,18,75,34,52,77,22,58
+Iran,Australia,Men,Pool,3,4,"[25, 25, 18, 25]",48,12,5,28,93,51,62,92,25,76
+Australia,Iran,Men,Pool,1,4,"[14, 22, 25, 15]",40,9,2,25,76,48,76,102,28,93
+Brazil,China,Men,Pool,0,3,"[23, 29, 23]",47,6,4,18,75,38,68,87,25,81
+China,Brazil,Men,Pool,3,3,"[25, 31, 25]",43,9,4,25,81,28,64,77,18,75
+France,Poland,Men,Pool,1,4,"[25, 22, 21, 22]",50,6,9,25,90,61,81,103,32,96
+Poland,France,Men,Pool,3,4,"[21, 25, 25, 25]",47,10,7,32,96,63,70,96,25,90
+Iran,Japan,Men,Pool,0,3,"[20, 14, 19]",27,3,4,19,53,32,62,72,20,75
+Japan,Iran,Men,Pool,3,3,"[25, 25, 25]",39,6,10,20,75,41,41,69,19,53
+Argentina,Italy,Men,Pool,1,4,"[20, 21, 25, 28]",51,9,2,32,94,81,73,113,28,96
+Italy,Argentina,Men,Pool,3,4,"[25, 25, 16, 30]",48,13,7,28,96,73,74,112,32,94
+Netherlands,Australia,Men,Pool,3,3,"[25, 25, 25]",37,6,9,23,75,30,45,66,19,58
+Australia,Netherlands,Men,Pool,0,3,"[20, 15, 23]",34,4,1,19,58,30,57,62,23,75
+Bulgaria,Canada,Men,Pool,2,5,"[18, 18, 26, 25, 11]",52,9,7,30,98,53,89,112,23,110
+Canada,Bulgaria,Men,Pool,3,5,"[25, 25, 24, 21, 15]",66,14,7,23,110,60,85,116,30,98
+Slovenia,Netherlands,Men,Pool,0,3,"[17, 21, 24]",35,8,2,17,62,44,64,81,24,76
+Netherlands,Slovenia,Men,Pool,3,3,"[25, 25, 26]",38,5,9,24,76,44,47,74,17,62
+Argentina,Japan,Men,Pool,1,4,"[25, 18, 25, 16]",49,5,1,29,84,46,73,89,23,94
+Japan,Argentina,Men,Pool,3,4,"[27, 25, 17, 25]",56,6,9,23,94,61,67,106,29,84
+Australia,Canada,Men,Pool,1,4,"[25, 26, 19, 22]",54,7,8,23,92,44,78,108,29,96
+Canada,Australia,Men,Pool,3,4,"[18, 28, 25, 25]",53,7,7,29,96,22,77,104,23,92
+Iran,Bulgaria,Men,Pool,0,3,"[19, 23, 24]",39,5,1,21,66,17,64,76,18,76
+Bulgaria,Iran,Men,Pool,3,3,"[25, 25, 26]",44,8,6,18,76,19,57,77,21,66
+France,China,Men,Pool,3,0,"[25, 25, 25]",0,0,0,0,0,0,0,0,0,0
+China,France,Men,Pool,0,0,"[0, 0, 0]",0,0,0,0,0,0,0,0,0,0
+Germany,Italy,Men,Pool,0,3,"[16, 21, 22]",33,4,3,19,59,33,61,75,24,75
+Italy,Germany,Men,Pool,3,3,"[25, 25, 25]",35,12,4,24,75,38,43,59,19,59
+Brazil,Poland,Men,Pool,1,4,"[16, 25, 16, 22]",48,5,1,25,79,42,80,111,29,97
+Poland,Brazil,Men,Pool,3,4,"[25, 22, 25, 25]",48,7,13,29,97,34,63,99,25,79
+Serbia,United States,Men,Pool,1,4,"[24, 25, 23, 20]",57,3,6,26,92,29,81,97,31,99
+United States,Serbia,Men,Pool,3,4,"[26, 23, 25, 25]",56,7,5,31,99,30,71,92,26,92
+France,Netherlands,Men,Pool,3,3,"[25, 25, 25]",41,12,4,18,75,29,40,59,14,50
+Netherlands,France,Men,Pool,0,3,"[14, 23, 13]",30,1,5,14,50,34,61,76,18,75
+China,Germany,Men,Pool,3,0,"[25, 25, 25]",0,0,0,0,0,0,0,0,0,0
+Germany,China,Men,Pool,0,0,"[0, 0, 0]",0,0,0,0,0,0,0,0,0,0
+Poland,Canada,Men,Pool,3,3,"[25, 25, 25]",43,5,4,23,75,21,37,63,17,50
+Canada,Poland,Men,Pool,0,3,"[16, 18, 16]",28,2,3,17,50,14,60,70,23,75
+Argentina,Slovenia,Men,Pool,1,4,"[20, 29, 18, 17]",47,10,4,23,84,66,86,119,38,102
+Slovenia,Argentina,Men,Pool,3,4,"[25, 27, 25, 25]",50,8,6,38,102,68,65,111,23,84
+Serbia,Brazil,Men,Pool,0,3,"[18, 24, 17]",33,3,3,20,59,23,62,80,25,76
+Brazil,Serbia,Men,Pool,3,3,"[25, 26, 25]",36,7,8,25,76,25,46,75,20,59
+United States,Iran,Men,Pool,0,3,"[18, 27, 25]",42,4,3,21,70,20,66,89,24,81
+Iran,United States,Men,Pool,3,3,"[25, 29, 27]",46,6,5,24,81,16,60,74,21,70
+Germany,Netherlands,Men,Pool,1,4,"[25, 29, 23, 16]",55,9,1,28,93,86,81,133,25,103
+Netherlands,Germany,Men,Pool,3,4,"[22, 31, 25, 25]",57,15,6,25,103,78,74,125,28,93
+Argentina,China,Men,Pool,3,4,"[25, 22, 25, 25]",61,6,3,27,97,58,74,101,29,91
+China,Argentina,Men,Pool,1,4,"[22, 25, 22, 22]",54,6,2,29,91,52,75,102,27,97
+Serbia,Canada,Men,Pool,3,5,"[20, 19, 25, 26, 15]",58,6,3,38,105,38,80,100,34,105
+Canada,Serbia,Men,Pool,2,5,"[25, 25, 20, 24, 11]",54,9,8,34,105,19,83,100,38,105
+Japan,Italy,Men,Pool,3,5,"[25, 21, 24, 25, 15]",64,2,14,30,110,71,81,127,23,103
+Italy,Japan,Men,Pool,2,5,"[20, 25, 26, 19, 13]",63,14,3,23,103,47,96,104,30,110
+Iran,Brazil,Men,Pool,0,3,"[28, 23, 19]",35,5,4,26,70,13,60,66,18,80
+Brazil,Iran,Men,Pool,3,3,"[30, 25, 25]",50,7,5,18,80,22,59,83,26,70
+Australia,Bulgaria,Men,Pool,3,5,"[21, 25, 25, 20, 17]",61,8,7,32,108,42,86,122,23,100
+Bulgaria,Australia,Men,Pool,2,5,"[25, 13, 22, 25, 15]",53,17,7,23,100,32,94,118,32,108
+Argentina,Netherlands,Men,Pool,2,5,"[25, 23, 25, 19, 13]",62,11,4,28,105,65,85,107,25,107
+Netherlands,Argentina,Men,Pool,3,5,"[22, 25, 20, 25, 15]",66,8,8,25,107,67,88,127,28,105
+Japan,France,Men,Pool,0,3,"[22, 25, 16]",40,2,1,20,63,60,62,95,25,77
+France,Japan,Men,Pool,3,3,"[25, 27, 25]",39,8,5,25,77,54,48,86,20,63
+Canada,Iran,Men,Pool,0,3,"[21, 25, 18]",40,3,4,17,64,28,62,80,29,77
+Iran,Canada,Men,Pool,3,3,"[25, 27, 25]",40,4,4,29,77,23,44,63,17,64
+Italy,Slovenia,Men,Pool,3,3,"[25, 25, 25]",49,5,6,15,75,46,48,88,19,56
+Slovenia,Italy,Men,Pool,0,3,"[19, 16, 21]",33,4,0,19,56,46,60,73,15,75
+Poland,Australia,Men,Pool,3,3,"[25, 25, 25]",45,5,4,21,75,26,44,76,18,50
+Australia,Poland,Men,Pool,0,3,"[17, 19, 14]",27,4,1,18,50,21,65,81,21,75
+United States,Bulgaria,Men,Pool,3,4,"[25, 20, 26, 25]",55,7,8,26,96,44,69,90,26,84
+Bulgaria,United States,Men,Pool,1,4,"[12, 25, 24, 23]",47,5,6,26,84,22,77,101,26,96
+Germany,France,Men,Pool,1,4,"[16, 19, 25, 21]",32,7,4,38,81,32,64,79,28,94
+France,Germany,Men,Pool,3,4,"[25, 25, 19, 25]",48,10,8,28,94,45,57,86,38,81
+Japan,Slovenia,Men,Pool,3,4,"[25, 22, 25, 25]",55,6,5,31,97,56,65,102,20,83
+Slovenia,Japan,Men,Pool,1,4,"[21, 25, 18, 19]",52,9,2,20,83,54,79,103,31,97
+Serbia,Australia,Men,Pool,3,3,"[25, 25, 25]",51,5,2,17,75,28,48,75,15,59
+Australia,Serbia,Men,Pool,0,3,"[17, 20, 22]",37,6,1,15,59,12,63,62,17,75
+Italy,China,Men,Pool,3,3,"[25, 25, 25]",45,11,7,12,75,38,52,74,20,58
+China,Italy,Men,Pool,0,3,"[21, 18, 19]",31,4,3,20,58,39,59,80,12,75
+United States,Poland,Men,Pool,1,4,"[25, 23, 24, 22]",49,5,8,32,94,27,79,96,29,97
+Poland,United States,Men,Pool,3,4,"[21, 25, 26, 25]",57,7,4,29,97,38,78,103,32,94
+Bulgaria,Brazil,Men,Pool,0,3,"[21, 19, 22]",38,8,3,13,62,17,62,75,18,75
+Brazil,Bulgaria,Men,Pool,3,3,"[25, 25, 25]",44,9,4,18,75,26,52,66,13,62
+United States,Germany,Men,Pool,3,4,"[25, 25, 22, 25]",59,4,7,27,97,55,67,106,31,83
+Germany,United States,Men,Pool,1,4,"[21, 19, 25, 18]",47,3,2,31,83,68,78,125,27,97
+Canada,Argentina,Men,Pool,1,4,"[21, 25, 21, 23]",53,4,3,29,89,60,77,107,38,99
+Argentina,Canada,Men,Pool,3,4,"[25, 23, 25, 25]",50,7,4,38,99,49,70,109,29,89
+Bulgaria,Italy,Men,Pool,0,3,"[15, 20, 23]",37,2,2,17,58,12,65,84,21,75
+Italy,Bulgaria,Men,Pool,3,3,"[25, 25, 25]",37,11,6,21,75,20,48,68,17,58
+Iran,Poland,Men,Pool,3,5,"[21, 25, 25, 25, 15]",56,5,9,41,111,37,79,106,22,104
+Poland,Iran,Men,Pool,2,5,"[25, 23, 22, 27, 7]",60,12,10,22,104,36,95,108,41,111
+Brazil,Germany,Men,Pool,3,4,"[25, 25, 25, 25]",63,6,6,25,100,60,69,106,23,83
+Germany,Brazil,Men,Pool,1,4,"[27, 17, 20, 19]",51,6,3,23,83,57,85,118,25,100
+Japan,Australia,Men,Pool,3,4,"[25, 25, 23, 25]",61,6,13,18,98,51,67,96,21,77
+Australia,Japan,Men,Pool,1,4,"[18, 15, 25, 19]",51,4,1,21,77,41,81,84,18,98
+Netherlands,China,Men,Pool,3,3,"[29, 25, 25]",43,13,10,13,79,18,49,71,13,52
+China,Netherlands,Men,Pool,0,3,"[27, 12, 13]",33,6,0,13,52,24,66,67,13,79
+Slovenia,Serbia,Men,Pool,3,3,"[25, 25, 25]",36,6,4,29,75,14,43,63,16,57
+Serbia,Slovenia,Men,Pool,0,3,"[15, 19, 23]",36,3,2,16,57,18,62,85,29,75
+France,United States,Men,Pool,2,5,"[25, 22, 25, 14, 8]",53,5,7,28,93,86,82,132,40,101
+United States,France,Men,Pool,3,5,"[15, 25, 22, 25, 15]",46,9,6,40,101,61,68,104,28,93
+Germany,Australia,Men,Pool,3,4,"[20, 25, 25, 26]",52,8,5,31,96,48,66,96,29,86
+Australia,Germany,Men,Pool,1,4,"[25, 16, 21, 24]",48,5,4,29,86,50,77,88,31,96
+Canada,Brazil,Men,Pool,0,3,"[18, 19, 16]",36,1,5,11,53,46,67,91,23,75
+Brazil,Canada,Men,Pool,3,3,"[25, 25, 25]",43,5,4,23,75,49,45,73,11,53
+Italy,Iran,Men,Pool,3,4,"[25, 25, 25, 25]",55,10,8,27,100,33,73,104,25,89
+Iran,Italy,Men,Pool,1,4,"[16, 27, 23, 23]",49,7,8,25,89,32,83,114,27,100
+Bulgaria,Slovenia,Men,Pool,1,4,"[22, 25, 18, 16]",45,9,4,23,81,13,83,99,31,97
+Slovenia,Bulgaria,Men,Pool,3,4,"[25, 22, 25, 25]",53,10,3,31,97,27,64,94,23,81
+Poland,China,Men,Pool,3,3,"[26, 25, 25]",40,4,12,20,76,13,43,60,14,58
+China,Poland,Men,Pool,0,3,"[24, 16, 18]",34,8,2,14,58,13,65,59,20,76
+Argentina,Australia,Men,Pool,3,4,"[21, 25, 25, 25]",54,12,8,22,96,62,68,100,26,82
+Australia,Argentina,Men,Pool,1,4,"[25, 23, 19, 15]",46,7,3,26,82,46,81,91,22,96
+France,Brazil,Men,Pool,3,3,"[25, 25, 25]",49,6,11,9,75,41,60,86,26,64
+Brazil,France,Men,Pool,0,3,"[21, 22, 21]",31,2,5,26,64,41,52,73,9,75
+Japan,Canada,Men,Pool,3,4,"[25, 25, 22, 25]",54,5,7,31,97,71,65,100,19,81
+Canada,Japan,Men,Pool,1,4,"[20, 16, 25, 20]",50,4,8,19,81,61,81,105,31,97
+Bulgaria,Netherlands,Men,Pool,3,4,"[22, 25, 25, 25]",53,12,5,27,97,21,73,104,26,83
+Netherlands,Bulgaria,Men,Pool,1,4,"[25, 16, 21, 21]",48,3,6,26,83,29,84,115,27,97
+Slovenia,Iran,Men,Pool,0,3,"[24, 14, 21]",27,5,4,23,59,15,57,64,27,76
+Iran,Slovenia,Men,Pool,3,3,"[26, 25, 25]",37,6,6,27,76,20,47,68,23,59
+Italy,Serbia,Men,Pool,3,3,"[25, 25, 25]",36,14,6,19,75,18,51,73,19,58
+Serbia,Italy,Men,Pool,0,3,"[21, 14, 23]",34,3,2,19,58,16,64,94,19,75
+France,Argentina,Men,Pool,1,4,"[22, 25, 23, 19]",47,4,3,35,89,75,72,108,27,98
+Argentina,France,Men,Pool,3,4,"[25, 23, 25, 25]",62,4,5,27,98,73,68,115,35,89
+Canada,United States,Men,Pool,0,3,"[19, 15, 19]",34,1,2,16,53,49,61,82,18,75
+United States,Canada,Men,Pool,3,3,"[25, 25, 25]",47,5,5,18,75,47,45,72,16,53
+Germany,Japan,Men,Pool,1,4,"[25, 22, 20, 20]",47,8,2,30,87,56,77,101,32,98
+Japan,Germany,Men,Pool,3,4,"[23, 25, 25, 25]",52,10,4,32,98,53,64,92,30,87
+China,Bulgaria,Men,Pool,3,4,"[26, 25, 25, 25]",62,8,7,24,101,22,79,91,26,91
+Bulgaria,China,Men,Pool,1,4,"[28, 23, 23, 17]",55,7,3,26,91,22,84,94,24,101
+Iran,Serbia,Men,Pool,3,3,"[35, 25, 25]",48,14,7,16,85,25,58,83,19,66
+Serbia,Iran,Men,Pool,0,3,"[33, 21, 12]",40,6,1,19,66,19,72,87,16,85
+Poland,Netherlands,Men,Pool,3,3,"[25, 25, 25]",41,7,4,23,75,24,49,60,17,64
+Netherlands,Poland,Men,Pool,0,3,"[19, 23, 22]",37,4,6,17,64,19,63,76,23,75
+United States,Argentina,Men,Pool,3,5,"[29, 22, 20, 25, 17]",65,13,3,32,113,66,81,115,30,105
+Argentina,United States,Men,Pool,2,5,"[27, 25, 25, 13, 15]",66,7,2,30,105,66,92,130,32,113
+Australia,France,Men,Pool,0,3,"[16, 12, 26]",23,3,2,26,54,39,55,68,21,78
+France,Australia,Men,Pool,3,3,"[25, 25, 28]",43,8,6,21,78,36,43,66,26,54
+Brazil,Japan,Men,Pool,3,3,"[25, 25, 25]",42,7,4,22,75,39,56,76,22,68
+Japan,Brazil,Men,Pool,0,3,"[23, 23, 22]",40,3,3,22,68,52,60,81,22,75
+China,Serbia,Men,Pool,1,4,"[17, 17, 25, 22]",48,7,2,24,81,22,86,99,40,98
+Serbia,China,Men,Pool,3,4,"[25, 25, 23, 25]",44,8,6,40,98,31,61,92,24,81
+Italy,Netherlands,Men,Pool,3,3,"[25, 26, 25]",44,6,4,19,73,18,49,74,11,57
+Netherlands,Italy,Men,Pool,0,3,"[23, 24, 21]",36,5,5,11,57,18,62,72,19,73
+Poland,Slovenia,Men,Pool,3,4,"[25, 25, 23, 25]",47,13,9,28,97,28,58,88,25,79
+Slovenia,Poland,Men,Pool,1,4,"[14, 23, 25, 17]",41,6,7,25,79,22,78,98,28,97
+United States,Brazil,Men,Quarterfinals,3,4,"[20, 25, 25, 25]",56,7,4,28,95,61,69,104,21,87
+Brazil,United States,Men,Quarterfinals,1,4,"[25, 22, 23, 17]",61,3,2,21,87,61,81,119,28,95
+Italy,Netherlands,Men,Quarterfinals,3,4,"[21, 25, 25, 25]",47,12,7,30,96,51,63,95,20,82
+Netherlands,Italy,Men,Quarterfinals,1,4,"[25, 22, 13, 22]",52,4,6,20,82,53,88,122,30,96
+France,Japan,Men,Quarterfinals,3,3,"[26, 25, 25]",41,8,3,24,76,33,47,65,23,60
+Japan,France,Men,Quarterfinals,0,3,"[24, 16, 20]",30,3,4,23,60,39,54,73,24,76
+Poland,Iran,Men,Quarterfinals,3,5,"[25, 24, 25, 16, 15]",50,10,6,39,105,60,78,106,29,97
+Iran,Poland,Men,Quarterfinals,2,5,"[21, 26, 18, 25, 7]",55,7,6,29,97,61,81,122,39,105
+Poland,United States,Men,Semifinals,0,3,"[22, 23, 13]",34,2,4,18,58,31,63,77,22,75
+United States,Poland,Men,Semifinals,3,3,"[25, 25, 25]",38,6,9,22,75,35,43,63,18,58
+Italy,France,Men,Semifinals,0,3,"[22, 20, 15]",32,3,2,20,57,39,57,73,14,75
+France,Italy,Men,Semifinals,3,3,"[25, 25, 25]",46,4,11,14,75,44,50,71,20,57
+Italy,Poland,Men,Finals (Bronze),0,3,"[16, 23, 20]",33,2,1,23,59,52,57,88,25,75
+Poland,Italy,Men,Finals (Bronze),3,3,"[25, 25, 25]",37,3,10,25,75,41,48,77,23,59
+France,United States,Men,Finals (Gold),3,5,"[25, 25, 15, 21, 15]",59,6,6,30,101,48,82,108,27,95
+United States,France,Men,Finals (Gold),2,5,"[16, 19, 25, 25, 10]",60,7,1,27,95,54,80,106,30,101
+Thailand,Bulgaria,Women,Pool,3,3,"[25, 25, 25]",47,8,5,15,75,69,53,88,14,62
+Bulgaria,Thailand,Women,Pool,0,3,"[20, 22, 20]",44,3,1,14,62,61,65,86,15,75
+Türkiye,Italy,Women,Pool,3,3,"[25, 25, 25]",46,7,4,18,75,44,52,90,14,58
+Italy,Türkiye,Women,Pool,0,3,"[20, 19, 19]",37,6,1,14,58,41,66,93,18,75
+Germany,Brazil,Women,Pool,1,4,"[27, 25, 25, 21]",64,6,5,23,98,97,95,154,24,104
+Brazil,Germany,Women,Pool,3,4,"[29, 23, 27, 25]",64,13,3,24,104,100,88,157,23,98
+United States,Dominican Republic,Women,Pool,3,3,"[25, 25, 25]",47,9,4,15,75,62,54,90,17,56
+Dominican Republic,United States,Women,Pool,0,3,"[21, 17, 18]",32,7,0,17,56,60,66,97,15,75
+Belgium,Serbia,Women,Pool,1,4,"[25, 16, 17, 22]",54,9,5,12,80,59,84,155,14,89
+Serbia,Belgium,Women,Pool,3,4,"[14, 25, 25, 25]",62,10,3,14,89,83,73,127,12,80
+China,Netherlands,Women,Pool,3,4,"[16, 25, 25, 25]",68,11,3,9,91,98,91,143,14,93
+Netherlands,China,Women,Pool,1,4,"[25, 22, 23, 23]",69,9,1,14,93,118,86,134,9,91
+Poland,Canada,Women,Pool,3,4,"[20, 25, 25, 25]",46,9,6,34,95,72,71,120,31,90
+Canada,Poland,Women,Pool,1,4,"[25, 22, 23, 20]",49,7,3,31,90,80,81,117,34,95
+Korea,Japan,Women,Pool,0,3,"[17, 16, 11]",26,8,2,8,44,66,69,107,19,75
+Japan,Korea,Women,Pool,3,3,"[25, 25, 25]",49,5,2,19,75,83,38,104,8,44
+Thailand,Serbia,Women,Pool,3,5,"[25, 25, 25, 20, 15]",81,12,4,13,110,75,101,164,15,107
+Serbia,Thailand,Women,Pool,2,5,"[23, 27, 20, 25, 12]",67,17,8,15,107,59,103,152,13,110
+Bulgaria,Netherlands,Women,Pool,3,5,"[25, 12, 19, 25, 15]",65,11,6,14,96,114,81,161,22,87
+Netherlands,Bulgaria,Women,Pool,2,5,"[15, 25, 25, 15, 7]",53,10,2,22,87,132,86,143,14,96
+Belgium,Italy,Women,Pool,1,4,"[25, 19, 23, 20]",52,9,4,22,87,65,84,131,26,96
+Italy,Belgium,Women,Pool,3,4,"[21, 25, 25, 25]",56,9,5,26,96,58,78,119,22,87
+Brazil,Poland,Women,Pool,3,3,"[25, 25, 25]",32,12,5,26,75,51,55,84,9,66
+Poland,Brazil,Women,Pool,0,3,"[23, 21, 22]",49,6,2,9,66,56,68,106,26,75
+Germany,Japan,Women,Pool,2,5,"[27, 25, 20, 22, 12]",71,6,6,23,106,117,103,177,34,113
+Japan,Germany,Women,Pool,3,5,"[25, 23, 25, 25, 15]",74,1,4,34,113,125,94,183,23,106
+Canada,Dominican Republic,Women,Pool,3,3,"[25, 25, 25]",43,9,8,15,75,61,44,82,16,51
+Dominican Republic,Canada,Women,Pool,0,3,"[18, 15, 18]",26,4,5,16,51,50,67,95,15,75
+Serbia,Bulgaria,Women,Pool,3,3,"[26, 25, 26]",50,8,4,15,77,70,59,111,18,64
+Bulgaria,Serbia,Women,Pool,0,3,"[24, 15, 24]",39,4,3,18,64,68,70,110,15,77
+Netherlands,Italy,Women,Pool,0,3,"[19, 15, 15]",28,3,2,16,49,58,65,83,12,75
+Italy,Netherlands,Women,Pool,3,3,"[25, 25, 25]",50,10,3,12,75,61,47,92,16,49
+Türkiye,China,Women,Pool,1,4,"[16, 25, 16, 22]",49,5,2,23,79,65,85,120,29,95
+China,Türkiye,Women,Pool,3,4,"[25, 20, 25, 25]",54,9,3,29,95,65,70,102,23,79
+Germany,Korea,Women,Pool,3,3,"[25, 25, 25]",45,6,5,19,75,62,46,86,10,53
+Korea,Germany,Women,Pool,0,3,"[22, 15, 16]",34,2,7,10,53,45,68,98,19,75
+Dominican Republic,Brazil,Women,Pool,1,4,"[9, 25, 18, 17]",42,4,5,18,69,76,86,112,27,91
+Brazil,Dominican Republic,Women,Pool,3,4,"[25, 16, 25, 25]",48,10,6,27,91,82,59,110,18,69
+United States,Canada,Women,Pool,3,3,"[25, 25, 25]",44,8,2,21,75,66,47,88,12,55
+Canada,United States,Women,Pool,0,3,"[14, 22, 19]",36,6,1,12,55,54,65,97,21,75
+Thailand,Belgium,Women,Pool,2,5,"[22, 25, 25, 21, 13]",70,11,2,23,106,110,98,171,25,106
+Belgium,Thailand,Women,Pool,3,5,"[25, 18, 23, 25, 15]",67,8,6,25,106,114,96,168,23,106
+China,Italy,Women,Pool,3,4,"[25, 20, 25, 25]",48,14,5,22,89,71,68,103,10,77
+Italy,China,Women,Pool,1,4,"[13, 25, 22, 18]",59,4,4,10,77,75,89,129,22,89
+Bulgaria,Türkiye,Women,Pool,0,3,"[19, 21, 16]",31,8,1,16,56,50,67,94,18,75
+Türkiye,Bulgaria,Women,Pool,3,3,"[25, 25, 25]",42,12,3,18,75,54,51,84,16,56
+Korea,Poland,Women,Pool,0,3,"[9, 23, 11]",25,5,1,12,43,50,64,90,26,75
+Poland,Korea,Women,Pool,3,3,"[25, 25, 25]",33,12,4,26,75,45,37,72,12,43
+Dominican Republic,Japan,Women,Pool,1,4,"[17, 25, 21, 10]",42,13,3,15,73,95,85,142,25,95
+Japan,Dominican Republic,Women,Pool,3,4,"[25, 20, 25, 25]",60,7,3,25,95,105,65,140,15,73
+United States,Brazil,Women,Pool,3,3,"[25, 25, 25]",45,11,6,13,75,62,56,98,17,59
+Brazil,United States,Women,Pool,0,3,"[21, 20, 18]",32,8,2,17,59,48,69,88,13,75
+Serbia,Netherlands,Women,Pool,3,5,"[27, 25, 17, 22, 15]",67,12,5,22,106,113,96,156,21,104
+Netherlands,Serbia,Women,Pool,2,5,"[25, 16, 25, 25, 13]",65,13,5,21,104,110,96,161,22,106
+Thailand,China,Women,Pool,3,5,"[25, 13, 14, 25, 15]",64,6,2,20,92,96,105,149,24,107
+China,Thailand,Women,Pool,2,5,"[23, 25, 25, 23, 11]",70,6,7,24,107,99,78,144,20,92
+Türkiye,Belgium,Women,Pool,3,4,"[15, 25, 25, 25]",50,14,3,23,90,85,74,122,22,82
+Belgium,Türkiye,Women,Pool,1,4,"[25, 21, 21, 15]",50,6,4,22,82,89,81,139,23,90
+Poland,Germany,Women,Pool,3,5,"[27, 25, 14, 23, 15]",62,12,6,24,104,80,92,138,27,104
+Germany,Poland,Women,Pool,2,5,"[25, 22, 25, 25, 7]",65,8,4,27,104,102,91,147,24,104
+Japan,United States,Women,Pool,3,3,"[25, 25, 25]",47,6,4,18,75,82,56,114,11,62
+United States,Japan,Women,Pool,0,3,"[22, 20, 20]",46,5,0,11,62,83,68,117,18,75
+Korea,Canada,Women,Pool,0,3,"[21, 13, 16]",27,2,4,17,50,56,64,90,16,75
+Canada,Korea,Women,Pool,3,3,"[25, 25, 25]",43,12,4,16,75,53,46,75,17,50
+Canada,Thailand,Women,Pool,0,3,"[19, 22, 24]",43,5,6,10,64,35,70,104,27,77
+Thailand,Canada,Women,Pool,3,3,"[25, 25, 26]",45,2,3,27,77,43,54,102,10,64
+Japan,Poland,Women,Pool,3,3,"[25, 25, 25]",49,4,4,18,75,51,59,103,17,63
+Poland,Japan,Women,Pool,0,3,"[21, 21, 21]",41,4,1,17,63,49,63,97,18,75
+Netherlands,Germany,Women,Pool,1,4,"[20, 19, 25, 22]",51,9,5,21,86,55,72,117,16,87
+Germany,Netherlands,Women,Pool,3,4,"[25, 25, 12, 25]",63,7,1,16,87,58,77,146,21,86
+Serbia,Italy,Women,Pool,1,4,"[25, 14, 15, 20]",41,8,2,23,74,61,83,77,26,96
+Italy,Serbia,Women,Pool,3,4,"[21, 25, 25, 25]",50,13,7,26,96,61,64,75,23,74
+Bulgaria,United States,Women,Pool,0,3,"[20, 22, 20]",37,5,6,14,62,47,66,93,17,75
+United States,Bulgaria,Women,Pool,3,3,"[25, 25, 25]",44,7,7,17,75,51,56,85,14,62
+China,Belgium,Women,Pool,3,3,"[25, 25, 25]",45,10,2,18,75,52,50,81,9,55
+Belgium,China,Women,Pool,0,3,"[19, 22, 14]",44,0,2,9,55,68,70,103,18,75
+Dominican Republic,Korea,Women,Pool,3,3,"[25, 25, 25]",41,6,2,26,75,40,33,78,14,51
+Korea,Dominican Republic,Women,Pool,0,3,"[21, 17, 13]",28,8,1,14,51,25,63,97,26,75
+Brazil,Türkiye,Women,Pool,3,4,"[19, 25, 25, 25]",56,17,6,15,94,54,88,134,24,94
+Türkiye,Brazil,Women,Pool,1,4,"[25, 23, 23, 23]",55,12,3,24,94,53,85,126,15,94
+Poland,Thailand,Women,Pool,3,5,"[22, 27, 25, 25, 15]",73,13,7,21,114,109,91,185,33,99
+Thailand,Poland,Women,Pool,2,5,"[25, 29, 16, 16, 13]",52,9,5,33,99,97,97,153,21,114
+Canada,Belgium,Women,Pool,3,4,"[25, 25, 22, 25]",69,11,4,13,97,73,84,123,22,90
+Belgium,Canada,Women,Pool,1,4,"[22, 21, 25, 22]",50,13,5,22,90,79,83,118,13,97
+Bulgaria,Japan,Women,Pool,0,3,"[20, 16, 23]",41,2,0,16,59,57,65,108,20,75
+Japan,Bulgaria,Women,Pool,3,3,"[25, 25, 25]",46,5,4,20,75,72,56,108,16,59
+Serbia,Korea,Women,Pool,3,3,"[40, 25, 25]",46,9,2,33,90,53,71,118,21,82
+Korea,Serbia,Women,Pool,0,3,"[38, 22, 22]",52,6,3,21,82,54,78,135,33,90
+Italy,Dominican Republic,Women,Pool,3,5,"[25, 20, 25, 16, 15]",58,12,2,29,101,57,88,145,25,104
+Dominican Republic,Italy,Women,Pool,2,5,"[23, 25, 19, 25, 12]",64,11,4,25,104,56,89,144,29,101
+Netherlands,Brazil,Women,Pool,0,3,"[16, 15, 23]",26,7,3,18,54,49,66,105,23,75
+Brazil,Netherlands,Women,Pool,3,3,"[25, 25, 25]",40,10,2,23,75,53,48,91,18,54
+Poland,United States,Women,Pool,0,3,"[12, 21, 16]",35,3,1,10,49,49,70,99,14,75
+United States,Poland,Women,Pool,3,3,"[25, 25, 25]",51,9,1,14,75,59,44,86,10,49
+China,Canada,Women,Pool,3,4,"[25, 18, 25, 25]",50,10,9,24,93,79,60,119,17,71
+Canada,China,Women,Pool,1,4,"[16, 25, 12, 18]",46,3,5,17,71,74,87,120,24,93
+Japan,Thailand,Women,Pool,3,3,"[25, 25, 25]",51,6,0,18,75,80,47,125,12,52
+Thailand,Japan,Women,Pool,0,3,"[22, 16, 14]",34,6,0,12,52,74,66,116,18,75
+Germany,Italy,Women,Pool,0,3,"[19, 22, 25]",32,7,5,22,66,35,67,88,14,77
+Italy,Germany,Women,Pool,3,3,"[25, 25, 27]",53,8,2,14,77,40,61,101,22,66
+Serbia,Türkiye,Women,Pool,3,5,"[25, 15, 20, 25, 15]",51,18,4,27,100,65,94,148,24,104
+Türkiye,Serbia,Women,Pool,2,5,"[19, 25, 25, 22, 13]",63,14,3,24,104,70,92,165,27,100
+Netherlands,Dominican Republic,Women,Pool,2,5,"[25, 20, 21, 25, 7]",67,6,2,23,98,82,93,171,23,103
+Dominican Republic,Netherlands,Women,Pool,3,5,"[23, 25, 25, 15, 15]",69,8,3,23,103,97,90,159,23,98
+Bulgaria,Canada,Women,Pool,3,3,"[26, 25, 25]",50,7,3,16,76,60,63,99,9,67
+Canada,Bulgaria,Women,Pool,0,3,"[24, 22, 21]",45,6,7,9,67,64,69,103,16,76
+Belgium,Poland,Women,Pool,3,5,"[25, 15, 25, 22, 15]",58,8,5,31,102,107,91,165,16,105
+Poland,Belgium,Women,Pool,2,5,"[20, 25, 22, 25, 13]",71,12,6,16,105,109,95,161,31,102
+United States,China,Women,Pool,3,3,"[25, 25, 25]",50,7,8,10,75,52,62,99,22,65
+China,United States,Women,Pool,0,3,"[21, 23, 21]",35,5,3,22,65,42,62,77,10,75
+Italy,Brazil,Women,Pool,3,4,"[25, 25, 14, 25]",47,15,1,26,89,40,61,86,21,71
+Brazil,Italy,Women,Pool,1,4,"[17, 15, 25, 14]",40,5,5,21,71,36,76,104,26,89
+Germany,Türkiye,Women,Pool,0,3,"[22, 21, 22]",34,5,6,20,65,37,66,91,17,75
+Türkiye,Germany,Women,Pool,3,3,"[25, 25, 25]",44,12,2,17,75,38,57,87,20,65
+Netherlands,Korea,Women,Pool,3,3,"[25, 25, 25]",47,6,2,20,75,51,40,84,8,50
+Korea,Netherlands,Women,Pool,0,3,"[11, 21, 18]",34,5,3,8,50,43,66,98,20,75
+Bulgaria,Belgium,Women,Pool,2,5,"[22, 23, 25, 25, 15]",61,16,1,32,110,125,92,173,31,107
+Belgium,Bulgaria,Women,Pool,3,5,"[25, 25, 20, 20, 17]",57,11,8,31,107,120,98,176,32,110
+Thailand,United States,Women,Pool,1,4,"[25, 13, 23, 18]",47,2,3,27,79,97,79,139,18,92
+United States,Thailand,Women,Pool,3,4,"[17, 25, 25, 25]",61,8,5,18,92,83,76,137,27,79
+Japan,China,Women,Pool,3,4,"[19, 25, 25, 25]",55,9,7,23,94,82,72,127,13,76
+China,Japan,Women,Pool,1,4,"[25, 16, 23, 12]",47,12,4,13,76,72,85,123,23,94
+Brazil,Serbia,Women,Pool,3,3,"[25, 25, 25]",40,19,1,15,75,58,48,102,15,51
+Serbia,Brazil,Women,Pool,0,3,"[21, 9, 21]",32,4,0,15,51,57,69,114,15,75
+Germany,Dominican Republic,Women,Pool,1,4,"[23, 23, 25, 25]",55,8,7,26,96,61,73,134,25,88
+Dominican Republic,Germany,Women,Pool,3,4,"[25, 25, 11, 27]",51,11,1,25,88,60,85,126,26,96
+Türkiye,Korea,Women,Pool,3,4,"[20, 25, 25, 25]",54,15,6,20,95,43,68,110,21,72
+Korea,Türkiye,Women,Pool,1,4,"[25, 13, 19, 15]",42,6,3,21,72,39,87,127,20,95
+China,Brazil,Women,Pool,2,5,"[20, 23, 25, 25, 11]",60,11,3,30,104,81,91,138,18,104
+Brazil,China,Women,Pool,3,5,"[25, 25, 18, 21, 15]",72,11,3,18,104,90,99,159,30,104
+Dominican Republic,Bulgaria,Women,Pool,0,3,"[15, 13, 21]",29,4,0,16,49,18,67,56,18,75
+Bulgaria,Dominican Republic,Women,Pool,3,3,"[25, 25, 25]",43,9,5,18,75,30,45,64,16,49
+Serbia,Germany,Women,Pool,3,4,"[17, 25, 25, 25]",59,8,3,22,92,59,74,116,21,80
+Germany,Serbia,Women,Pool,1,4,"[25, 16, 21, 18]",48,6,5,21,80,54,82,125,22,92
+Canada,Türkiye,Women,Pool,3,4,"[25, 21, 25, 25]",56,14,6,20,96,35,85,110,31,92
+Türkiye,Canada,Women,Pool,1,4,"[22, 25, 22, 23]",51,5,5,31,92,33,79,100,20,96
+Thailand,Korea,Women,Pool,3,3,"[25, 25, 25]",36,17,1,21,75,40,43,78,10,50
+Korea,Thailand,Women,Pool,0,3,"[11, 22, 17]",33,6,1,10,50,33,68,109,21,75
+Italy,Poland,Women,Pool,3,4,"[25, 25, 28, 25]",62,14,4,23,103,75,81,128,32,91
+Poland,Italy,Women,Pool,1,4,"[27, 20, 26, 18]",46,9,4,32,91,68,84,129,23,103
+Japan,Netherlands,Women,Pool,2,5,"[25, 20, 26, 21, 10]",77,2,5,18,102,64,102,188,17,112
+Netherlands,Japan,Women,Pool,3,5,"[23, 25, 24, 25, 15]",75,16,4,17,112,63,95,165,18,102
+Belgium,United States,Women,Pool,0,3,"[16, 21, 19]",36,5,4,11,56,41,68,107,14,75
+United States,Belgium,Women,Pool,3,3,"[25, 25, 25]",49,9,3,14,75,48,51,95,11,56
+Thailand,Dominican Republic,Women,Pool,1,4,"[25, 23, 23, 21]",56,6,6,24,92,82,85,122,21,97
+Dominican Republic,Thailand,Women,Pool,3,4,"[22, 25, 25, 25]",64,8,4,21,97,77,82,114,24,92
+Poland,China,Women,Pool,0,3,"[8, 23, 20]",30,4,1,16,51,51,65,89,22,75
+China,Poland,Women,Pool,3,3,"[25, 25, 25]",39,11,3,22,75,53,42,79,16,51
+Korea,Brazil,Women,Pool,0,3,"[17, 19, 13]",29,5,3,12,49,44,70,90,18,75
+Brazil,Korea,Women,Pool,3,3,"[25, 25, 25]",39,14,4,18,75,53,43,78,12,49
+Türkiye,Netherlands,Women,Pool,3,3,"[25, 25, 25]",47,8,5,15,75,41,49,101,16,55
+Netherlands,Türkiye,Women,Pool,0,3,"[23, 11, 21]",31,8,0,16,55,34,68,106,15,75
+Germany,Belgium,Women,Pool,3,4,"[20, 25, 25, 25]",69,3,4,19,95,74,74,150,15,85
+Belgium,Germany,Women,Pool,1,4,"[25, 18, 22, 20]",61,5,4,15,85,75,85,156,19,95
+United States,Serbia,Women,Pool,3,3,"[25, 33, 25]",48,9,5,21,83,56,58,94,11,64
+Serbia,United States,Women,Pool,0,3,"[17, 31, 16]",44,5,4,11,64,32,75,95,21,83
+China,Dominican Republic,Women,Pool,3,3,"[25, 25, 25]",41,8,5,21,75,44,44,75,7,50
+Dominican Republic,China,Women,Pool,0,3,"[19, 16, 15]",35,5,3,7,50,44,73,97,21,75
+Italy,Korea,Women,Pool,3,4,"[25, 23, 25, 25]",55,11,3,29,98,77,65,126,27,76
+Korea,Italy,Women,Pool,1,4,"[17, 25, 15, 19]",42,6,1,27,76,63,87,143,29,98
+Brazil,Bulgaria,Women,Pool,3,3,"[25, 25, 25]",40,11,3,21,75,44,54,84,19,59
+Bulgaria,Brazil,Women,Pool,0,3,"[21, 20, 18]",31,5,4,19,59,46,63,97,21,75
+Belgium,Netherlands,Women,Pool,1,4,"[25, 24, 20, 21]",60,9,3,18,90,93,89,174,19,97
+Netherlands,Belgium,Women,Pool,3,4,"[21, 26, 25, 25]",59,14,5,19,97,92,79,157,18,90
+Türkiye,Japan,Women,Pool,3,4,"[25, 25, 18, 25]",55,19,2,17,93,58,74,131,23,82
+Japan,Türkiye,Women,Pool,1,4,"[20, 15, 25, 22]",50,5,4,23,82,67,84,156,17,93
+Serbia,Canada,Women,Pool,3,4,"[25, 25, 20, 25]",56,9,5,23,93,25,74,93,19,82
+Canada,Serbia,Women,Pool,1,4,"[20, 14, 25, 22]",49,13,1,19,82,13,82,91,23,93
+Dominican Republic,Poland,Women,Pool,3,5,"[20, 38, 25, 13, 15]",69,12,4,26,111,84,102,166,26,115
+Poland,Dominican Republic,Women,Pool,2,5,"[25, 36, 20, 25, 9]",64,17,8,26,115,91,99,158,26,111
+Brazil,Thailand,Women,Pool,3,4,"[25, 26, 23, 25]",60,9,1,29,99,72,80,135,16,90
+Thailand,Brazil,Women,Pool,1,4,"[18, 24, 25, 23]",63,7,4,16,90,67,94,140,29,99
+Italy,Bulgaria,Women,Pool,3,3,"[25, 25, 25]",50,7,4,14,75,47,47,82,12,52
+Bulgaria,Italy,Women,Pool,0,3,"[12, 19, 21]",35,1,4,12,52,41,66,94,14,75
+Türkiye,United States,Women,Pool,2,5,"[22, 25, 25, 25, 16]",72,12,2,27,113,59,93,146,23,112
+United States,Türkiye,Women,Pool,3,5,"[25, 18, 27, 23, 18]",75,5,9,23,112,62,100,160,27,113
+Japan,Serbia,Women,Pool,1,4,"[25, 20, 19, 22]",55,3,5,23,86,109,87,203,21,97
+Serbia,Japan,Women,Pool,3,4,"[22, 25, 25, 25]",64,10,2,21,97,105,80,167,23,86
+Germany,Canada,Women,Pool,3,4,"[25, 19, 27, 25]",53,4,7,32,96,73,74,133,14,92
+Canada,Germany,Women,Pool,1,4,"[19, 25, 25, 23]",64,11,3,14,92,73,84,142,32,96
+China,Korea,Women,Pool,3,4,"[25, 19, 25, 26]",55,12,4,24,95,75,74,117,26,81
+Korea,China,Women,Pool,1,4,"[13, 25, 19, 24]",47,4,4,26,81,67,85,141,24,95
+Thailand,Italy,Women,Pool,0,3,"[20, 14, 14]",34,0,0,14,48,45,66,97,12,75
+Italy,Thailand,Women,Pool,3,3,"[25, 25, 25]",50,6,7,12,75,59,47,90,14,48
+Belgium,Japan,Women,Pool,3,5,"[25, 18, 25, 11, 15]",59,11,5,19,94,71,86,154,24,95
+Japan,Belgium,Women,Pool,2,5,"[16, 25, 19, 25, 10]",64,2,5,24,95,87,81,172,19,94
+Poland,Bulgaria,Women,Pool,1,4,"[25, 13, 17, 22]",48,8,2,19,77,53,86,132,28,97
+Bulgaria,Poland,Women,Pool,3,4,"[22, 25, 25, 25]",59,8,2,28,97,61,68,123,19,77
+United States,Germany,Women,Pool,3,4,"[25, 25, 13, 25]",51,11,6,20,88,72,70,128,17,77
+Germany,United States,Women,Pool,1,4,"[17, 13, 25, 22]",50,7,3,17,77,86,75,151,20,88
+Netherlands,Canada,Women,Pool,3,4,"[22, 27, 26, 25]",54,11,7,28,100,100,84,173,18,97
+Canada,Netherlands,Women,Pool,1,4,"[25, 25, 24, 23]",62,12,5,18,97,91,93,169,28,100
+Brazil,Japan,Women,Quarterfinals,3,4,"[29, 28, 20, 25]",64,16,3,19,102,92,83,136,23,92
+Japan,Brazil,Women,Quarterfinals,1,4,"[27, 26, 25, 14]",59,5,5,23,92,104,92,145,19,102
+United States,Serbia,Women,Quarterfinals,2,5,"[27, 23, 25, 25, 13]",66,21,3,23,113,81,100,126,22,109
+Serbia,United States,Women,Quarterfinals,3,5,"[29, 25, 20, 20, 15]",67,14,6,22,109,81,105,135,23,113
+Italy,China,Women,Quarterfinals,3,4,"[25, 25, 24, 25]",68,7,8,16,99,94,84,153,21,89
+China,Italy,Women,Quarterfinals,1,4,"[22, 19, 26, 22]",54,12,2,21,89,79,89,134,16,99
+Türkiye,Thailand,Women,Quarterfinals,3,4,"[23, 25, 25, 25]",58,10,6,24,98,80,71,116,21,79
+Thailand,Türkiye,Women,Quarterfinals,1,4,"[25, 15, 18, 21]",51,4,3,21,79,92,86,121,24,98
+Serbia,Brazil,Women,Semifinals,1,4,"[25, 18, 24, 19]",53,12,5,16,86,87,84,128,19,90
+Brazil,Serbia,Women,Semifinals,3,4,"[14, 25, 26, 25]",59,10,2,19,90,87,81,130,16,86
+Türkiye,Italy,Women,Semifinals,0,3,"[18, 26, 22]",41,5,2,18,66,60,68,99,19,78
+Italy,Türkiye,Women,Semifinals,3,3,"[25, 28, 25]",47,10,2,19,78,67,59,111,18,66
+Türkiye,Serbia,Women,Finals (Bronze),0,3,"[25, 17, 24]",37,9,3,17,66,61,71,101,14,78
+Serbia,Türkiye,Women,Finals (Bronze),3,3,"[27, 25, 26]",52,10,2,14,78,66,67,118,17,66
+Italy,Brazil,Women,Finals (Gold),3,3,"[25, 25, 25]",50,7,2,16,75,64,65,100,19,67
+Brazil,Italy,Women,Finals (Gold),0,3,"[23, 22, 22]",41,4,3,19,67,60,64,96,16,75
