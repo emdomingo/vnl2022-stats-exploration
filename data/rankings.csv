@@ -1,0 +1,65 @@
+division,phase,rank,team,won,lost,points,sets_ratio,points_ratio
+Men,Pool,1,Italy,10.0,2.0,31.0,3.555,1.13
+Men,Pool,2,Poland,10.0,2.0,31.0,3.3,1.148
+Men,Pool,3,United States,10.0,2.0,27.0,1.937,1.13
+Men,Pool,4,France,9.0,3.0,28.0,2.818,1.203
+Men,Pool,5,Japan,9.0,3.0,27.0,1.611,1.095
+Men,Pool,6,Brazil,8.0,4.0,24.0,1.857,1.089
+Men,Pool,7,Iran,7.0,5.0,20.0,1.157,1.041
+Men,Pool,8,Netherlands,6.0,6.0,17.0,0.952,0.981
+Men,Pool,9,Argentina,5.0,7.0,18.0,0.923,0.993
+Men,Pool,10,Slovenia,5.0,7.0,15.0,0.75,0.952
+Men,Pool,11,Serbia,5.0,7.0,14.0,0.703,0.968
+Men,Pool,12,Germany,4.0,8.0,10.0,0.62,0.878
+Men,Pool,13,China,3.0,9.0,9.0,0.5,0.883
+Men,Pool,14,Bulgaria,2.0,10.0,9.0,0.516,0.91
+Men,Pool,15,Canada,2.0,10.0,6.0,0.303,0.867
+Men,Pool,16,Australia,1.0,11.0,2.0,0.228,0.831
+Men,Final,1,France,,,,,
+Men,Final,2,United States,,,,,
+Men,Final,3,Poland,,,,,
+Men,Final,4,Italy,,,,,
+Men,Final,5,Japan,,,,,
+Men,Final,6,Brazil,,,,,
+Men,Final,7,Iran,,,,,
+Men,Final,8,Netherlands,,,,,
+Men,Final,9,Argentina,,,,,
+Men,Final,10,Slovenia,,,,,
+Men,Final,11,Serbia,,,,,
+Men,Final,12,Germany,,,,,
+Men,Final,13,China,,,,,
+Men,Final,14,Bulgaria,,,,,
+Men,Final,15,Canada,,,,,
+Men,Final,16,Australia,,,,,
+Women,Pool,1,United States,11.0,1.0,32.0,4.714,1.186
+Women,Pool,2,Brazil,10.0,2.0,29.0,2.583,1.11
+Women,Pool,3,Italy,10.0,2.0,29.0,2.384,1.149
+Women,Pool,4,China,8.0,4.0,26.0,1.705,1.133
+Women,Pool,5,Japan,8.0,4.0,25.0,1.875,1.119
+Women,Pool,6,Serbia,8.0,4.0,23.0,1.35,0.998
+Women,Pool,7,Türkiye,7.0,5.0,23.0,1.555,1.097
+Women,Pool,8,Thailand,5.0,7.0,15.0,0.88,0.947
+Women,Pool,9,Dominican Republic,5.0,7.0,14.0,0.703,0.891
+Women,Pool,10,Germany,4.0,8.0,14.0,0.74,0.988
+Women,Pool,11,Netherlands,4.0,8.0,14.0,0.714,0.964
+Women,Pool,12,Canada,4.0,8.0,12.0,0.653,0.971
+Women,Pool,13,Poland,4.0,8.0,12.0,0.62,0.958
+Women,Pool,14,Bulgaria,4.0,8.0,12.0,0.518,0.948
+Women,Pool,15,Belgium,4.0,8.0,8.0,0.562,0.915
+Women,Pool,16,Korea,0.0,12.0,0.0,0.083,0.716
+Women,Final,1,Italy,,,,,
+Women,Final,2,Brazil,,,,,
+Women,Final,3,Serbia,,,,,
+Women,Final,4,Türkiye,,,,,
+Women,Final,5,United States,,,,,
+Women,Final,6,China,,,,,
+Women,Final,7,Japan,,,,,
+Women,Final,8,Thailand,,,,,
+Women,Final,9,Dominican Republic,,,,,
+Women,Final,10,Germany,,,,,
+Women,Final,11,Netherlands,,,,,
+Women,Final,12,Canada,,,,,
+Women,Final,13,Poland,,,,,
+Women,Final,14,Bulgaria,,,,,
+Women,Final,15,Belgium,,,,,
+Women,Final,16,Korea,,,,,
