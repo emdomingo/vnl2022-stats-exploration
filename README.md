@@ -37,3 +37,14 @@ Graphs:
 ![Comparision of Actions per Set](./graphs/actions_per_set.jpg)
 ![Comparision of Kill/Excellent Action Percentage per Set](./graphs/kill_excellent_percent.jpg)
 ![Comparison of Errors per Set](./graphs/errors_per_set.jpg)
+
+## Data Exploration 02: Team Stat Analysis
+
+Notebook: [03-team-stat-analysis.ipynb](./notebooks/03-team-stat-analysis.ipynb)
+
+Comparison was made between each team's efficiency rate versus their division average. Output were the following graphs for each team:
+
+Graphs:
+
+![France (Men's) Action Efficiency](./graphs/eff_per_action/Men-France.png)
+![Italy (Women's) Action Efficiency](./graphs/eff_per_action/Women-Italy.png)
