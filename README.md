@@ -30,9 +30,9 @@ How to tag a notebook
 
 Notebook: [02-mens-vs-womens-comparison.ipynb](./notebooks/02-men-vs-women-comparision.ipynb)
 
-We analyzed the data to look into the differences between the men's and women's matches focusing on the amount of actions (attacks, blocks, serves, etc.) done per set, which action is being executed better and the errors committed.
+Data was analyzed to look into the differences between the men's and women's matches with a focus on (1) the amount of actions (attacks, blocks, serves, etc.) done per set, (2) the execution of each action and (3) the errors committed.
 
-Graphs:
+The following are the resulting graphs from the analysis:
 
 ![Comparision of Actions per Set](./graphs/actions_per_set.jpg)
 ![Comparision of Kill/Excellent Action Percentage per Set](./graphs/kill_excellent_percent.jpg)
@@ -42,7 +42,7 @@ Graphs:
 
 Notebook: [03-team-stat-analysis.ipynb](./notebooks/03-team-stat-analysis.ipynb)
 
-Comparison was made between each team's efficiency rate versus their division average. Output were the following graphs for each team:
+Comparison was made between each team's efficiency rate per action versus their division average. Output were the following graphs for each team:
 
 Graphs:
 
