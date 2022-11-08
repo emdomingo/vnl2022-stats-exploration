@@ -1,15 +1,6 @@
 # VNL 2022 Statistics Exploration
 
-<!-- Add intro for VNL
--->
-
-## Volleyball Basics
-
-<!--
-6 players, 3 contacts to send the ball to the opponent's side of the court.
-
-LOOK FOR VIDEO EXPLAINING THE BASICS 
--->
+The Volleyball Nations League (VNL) is an international competition between the senior national volleyball teams of 16 countries. It is hosted annually by the FIVB.
 
 ## Data Collection
 
